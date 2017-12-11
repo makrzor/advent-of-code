@@ -6,29 +6,25 @@ NEWS = ('n', 'ne', 'se', 's', 'sw', 'nw')
 distance = 0
 max_distance = 0
 position = {}
-position_rotated = {}
+real_position = {}
 for direction in NEWS:
     position[direction] = 0
+    real_position[direction] = 0
 
 for step in PATH.split(','):
-    rotation = NEWS.index(step)
-    for i in range(len(NEWS) - rotation):
-        position_rotated[NEWS[i]] = position[NEWS[i + rotation]]
-    for i in range(len(NEWS) - rotation, len(NEWS)):
-        position_rotated[NEWS[i]] = position[NEWS[i + rotation - len(NEWS)]]
-    for i in range(len(NEWS)):
-        position[NEWS[i]] = position_rotated[NEWS[i]]
-    if position['s'] > 0:
-        position['s'] -= 1
+    azimuth = NEWS.index(step)
+    if position[NEWS[(azimuth + 3) % 6]] > 0:
+        position[NEWS[(azimuth + 3) % 6]] -= 1
         distance -= 1
-    elif position['se'] > 0:
-        position['se'] -= 1
-        position['ne'] += 1
-    elif position['sw'] > 0:
-        position['sw'] -= 1
-        position['nw'] += 1
+    elif position[NEWS[(azimuth + 2) % 6]] > 0:
+        position[NEWS[(azimuth + 2) % 6]] -= 1
+        position[NEWS[(azimuth + 1) % 6]] += 1
+    elif position[NEWS[(azimuth + 4) % 6]] > 0:
+        position[NEWS[(azimuth + 4) % 6]] -= 1
+        position[NEWS[(azimuth + 5) % 6]] += 1
     else:
-        position['n'] += 1
+        position[step] += 1
         distance += 1
+    real_position[step] += 1
     max_distance = max(max_distance, distance)
 print(max_distance)
