@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-import sys
 
 ROOMS_LIST = "vxupkizork-sgmtkzoi-pkrrehkgt-zxgototm-644[kotgr],\
 mbiyqoxsm-pvygob-nocsqx-900[obmqs],\
