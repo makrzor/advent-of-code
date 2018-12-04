@@ -1,6 +1,11 @@
 #!/usr/bin/env python
+import sys
 
-input_file = open("01.txt", 'r')
+if len(sys.argv) > 1:
+    filename = sys.argv[1]
+else:
+    filename = sys.argv[0].split(".")[0] + ".txt"
+input_file = open(filename, 'r')
 
 frequency = 0
 frequencies_visited = [0] * 1000000

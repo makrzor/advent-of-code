@@ -1,7 +1,13 @@
 #!/usr/bin/env python
+import sys
+
+if len(sys.argv) > 1:
+    filename = sys.argv[1]
+else:
+    filename = sys.argv[0].split(".")[0] + ".txt"
+input_file = open(filename, 'r')
 
 FABRIC_SIZE = 1000
-input_file = open("03.txt", 'r')
 
 fabric = [[0 for col in range(FABRIC_SIZE)] for row in range(FABRIC_SIZE)]
 overlaping = 0
