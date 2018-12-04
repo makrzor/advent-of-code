@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#set -x
 
 for test in $(/bin/ls *.test*.txt | grep -v result | grep "^${1}"); do
     result=$(/apps/public/bin/python ${test/.test*/.py} ${test})
