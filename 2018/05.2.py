@@ -11,6 +11,17 @@ LETTER_CODES = range(65, 91)
 min_length = 50000
 
 line_original = input_file.read()[:-1]
+line_length = len(line_original)
+i = 0
+while i < line_length - 1:
+    if abs(ord(line_original[i]) - ord(line_original[i + 1])) == 32:
+        line_original = line_original[:i] + line_original[i + 2:]
+        line_length -=2
+        if i > 0:
+            i -= 2
+        else:
+            i = -1
+    i += 1
 for letter_code in LETTER_CODES:
     line = line_original
     line_length = len(line)
