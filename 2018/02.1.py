@@ -17,8 +17,8 @@ for box in input_file:
 
     for i in range(len(box)):
         letter = box[i]
-        appearances = letters[ord(letter)] + 1
-        letters[ord(letter)] = appearances
+        letters[ord(letter)] += 1
+        appearances = letters[ord(letter)]
         if appearances == 2:
             twos.append(letter)
         elif appearances == 3:

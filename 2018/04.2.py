@@ -18,8 +18,8 @@ most_slept_minute = 0
 most_slept_minutes_number = 0
 
 for line in input_file:
-    event = line.split(" ")[2]
-    minute = int(line.split(":")[1][:2])
+    event = line[19:24]
+    minute = int(line[15:17])
     if event == "Guard":
         guard = int(line.split()[3][1:])
     elif event == "falls":
