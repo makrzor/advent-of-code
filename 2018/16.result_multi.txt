@@ -1,0 +1,5671 @@
+['14', '1', '3', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['13', '2', '1', '3']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['13', '2', '1', '0']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['12', '1', '0', '2']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['11', '3', '1', '3']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['15', '1', '2', '2']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '2', '2', '1']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '3']
+setr(): ok
+gtir(): ok
+['11', '3', '3', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '0']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '1']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '1']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '0']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['13', '2', '0', '2']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['11', '3', '3', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['4', '0', '2', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '3']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['10', '3', '3', '3']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['11', '3', '3', '3']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '1', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '1']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['12', '1', '0', '2']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['12', '1', '0', '2']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['15', '1', '2', '2']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['15', '1', '2', '2']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['7', '2', '0', '2']
+eqir(): ok
+eqri(): ok
+['0', '3', '2', '0']
+eqir(): ok
+['4', '0', '2', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '0']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '3', '2', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['6', '0', '0', '2']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['15', '1', '2', '2']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '3', '2', '0']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['5', '0', '2', '3']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '0']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '1']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['0', '2', '3', '2']
+eqir(): ok
+['12', '1', '0', '2']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['11', '2', '2', '3']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '3']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '2', '2', '2']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['2', '2', '3', '0']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '2', '2', '0']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['2', '1', '3', '0']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['15', '1', '2', '1']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '3', '2', '2']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['14', '1', '3', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['12', '1', '0', '3']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['8', '2', '2', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['5', '0', '2', '0']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '2']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['15', '1', '2', '1']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '2']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['14', '1', '3', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['2', '2', '3', '0']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '2']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['15', '1', '2', '2']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '2', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['7', '3', '2', '2']
+eqir(): ok
+eqri(): ok
+['2', '2', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '3']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '2', '3', '0']
+eqir(): ok
+['13', '3', '0', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['4', '0', '2', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['13', '2', '0', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['6', '0', '0', '0']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['4', '0', '2', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['15', '1', '2', '1']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '3', '2', '3']
+eqir(): ok
+['14', '1', '3', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['11', '0', '0', '3']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '1', '3', '0']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['7', '3', '2', '2']
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '3']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['9', '1', '2', '1']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['7', '2', '0', '0']
+eqir(): ok
+eqri(): ok
+['13', '3', '2', '2']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['2', '2', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '3', '2', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '2', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['1', '1', '0', '3']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['7', '3', '2', '0']
+eqir(): ok
+eqri(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['8', '2', '2', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['14', '1', '3', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['10', '3', '3', '2']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['6', '0', '0', '1']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['12', '1', '0', '2']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['15', '1', '2', '1']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['12', '1', '0', '3']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['10', '3', '3', '2']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['8', '3', '3', '2']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['4', '0', '2', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['0', '3', '2', '2']
+eqir(): ok
+['0', '3', '2', '0']
+eqir(): ok
+['2', '1', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '2']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['5', '0', '2', '0']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['11', '3', '2', '1']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '3']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['9', '1', '2', '2']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '2', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['8', '3', '3', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['8', '2', '2', '0']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['7', '2', '0', '2']
+eqir(): ok
+eqri(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '3', '2', '3']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['13', '2', '1', '3']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '2', '2', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '3', '3', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['14', '1', '3', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['8', '2', '2', '0']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['0', '3', '2', '2']
+eqir(): ok
+['9', '1', '2', '1']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['0', '2', '3', '2']
+eqir(): ok
+['4', '0', '2', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '3']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['0', '2', '3', '1']
+eqir(): ok
+['2', '1', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '0']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '0']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['0', '3', '2', '2']
+eqir(): ok
+['7', '2', '0', '1']
+eqir(): ok
+eqri(): ok
+['7', '2', '0', '0']
+eqir(): ok
+eqri(): ok
+['11', '3', '2', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['7', '3', '0', '3']
+eqir(): ok
+eqri(): ok
+['15', '1', '2', '2']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '3']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['9', '1', '2', '2']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '3']
+setr(): ok
+gtir(): ok
+['13', '3', '2', '3']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['10', '3', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['11', '2', '2', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '2', '2', '3']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['7', '3', '0', '1']
+eqir(): ok
+eqri(): ok
+['4', '0', '2', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['10', '3', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['6', '0', '0', '2']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['10', '3', '3', '0']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['2', '1', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '1']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['11', '0', '0', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '2', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '0']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['3', '3', '2', '3']
+setr(): ok
+gtir(): ok
+['0', '3', '2', '2']
+eqir(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '1']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['13', '3', '2', '3']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['2', '1', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '2']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '3', '3', '2']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['11', '2', '1', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '3', '2', '1']
+eqir(): ok
+['11', '3', '2', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '3', '2', '2']
+eqir(): ok
+['5', '0', '2', '0']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '3', '1', '3']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '3', '3', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['7', '3', '0', '1']
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['9', '1', '2', '1']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['6', '0', '0', '1']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['13', '2', '3', '0']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '2']
+setr(): ok
+gtir(): ok
+['0', '3', '2', '3']
+eqir(): ok
+['7', '2', '0', '0']
+eqir(): ok
+eqri(): ok
+['0', '3', '2', '1']
+eqir(): ok
+['0', '3', '2', '1']
+eqir(): ok
+['10', '3', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['13', '2', '3', '3']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['11', '2', '2', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '2', '2', '3']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '3', '2', '3']
+eqir(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['4', '0', '2', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '3']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['8', '2', '2', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['12', '1', '0', '0']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['9', '1', '2', '0']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['11', '3', '1', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['13', '3', '2', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['11', '2', '2', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '3', '2', '2']
+eqir(): ok
+['6', '0', '0', '2']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['9', '1', '2', '0']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '2', '3', '0']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['9', '1', '2', '3']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '1', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['0', '3', '2', '3']
+eqir(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '3']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '3', '3', '2']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['3', '3', '2', '2']
+setr(): ok
+gtir(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['6', '0', '0', '2']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['13', '2', '1', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['9', '1', '2', '0']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '0']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['11', '2', '2', '1']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['15', '1', '2', '2']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '0']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '1', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '3', '2', '2']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['8', '2', '2', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['3', '3', '2', '3']
+setr(): ok
+gtir(): ok
+['0', '3', '2', '0']
+eqir(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['9', '1', '2', '3']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '2', '0', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '2']
+setr(): ok
+gtir(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '2', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '1']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['7', '2', '0', '1']
+eqir(): ok
+eqri(): ok
+['12', '1', '0', '0']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['4', '0', '2', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '1']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['7', '2', '0', '1']
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['10', '3', '3', '2']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['3', '3', '2', '2']
+setr(): ok
+gtir(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['0', '2', '3', '1']
+eqir(): ok
+['8', '3', '3', '2']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['12', '1', '0', '1']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['14', '1', '3', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['13', '3', '0', '3']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['6', '0', '0', '1']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['15', '1', '2', '3']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['4', '0', '2', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '2']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['2', '2', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '3', '3', '2']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['9', '1', '2', '3']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['12', '1', '0', '2']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['14', '1', '3', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['14', '1', '3', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['8', '2', '2', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['0', '3', '2', '2']
+eqir(): ok
+['2', '2', '3', '3']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '1', '3', '0']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '2', '3', '2']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['10', '3', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['12', '1', '0', '2']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['14', '1', '3', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['0', '3', '2', '3']
+eqir(): ok
+['12', '1', '0', '3']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['12', '1', '0', '0']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['0', '3', '2', '3']
+eqir(): ok
+['7', '3', '2', '2']
+eqir(): ok
+eqri(): ok
+['0', '3', '2', '0']
+eqir(): ok
+['5', '0', '2', '3']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '3']
+setr(): ok
+gtir(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['8', '3', '3', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['8', '2', '2', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['7', '3', '0', '3']
+eqir(): ok
+eqri(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '3', '2', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['8', '2', '2', '2']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['10', '3', '3', '3']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['9', '1', '2', '2']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '1']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['10', '3', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['0', '3', '2', '1']
+eqir(): ok
+['0', '3', '2', '0']
+eqir(): ok
+['15', '1', '2', '1']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '3', '2', '3']
+eqir(): ok
+['8', '2', '2', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['7', '3', '2', '1']
+eqir(): ok
+eqri(): ok
+['9', '1', '2', '0']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '0']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '0', '0', '3']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '3', '3', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '2', '3', '2']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['7', '2', '0', '1']
+eqir(): ok
+eqri(): ok
+['0', '2', '3', '2']
+eqir(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['4', '0', '2', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '3']
+setr(): ok
+gtir(): ok
+['1', '1', '0', '3']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['13', '3', '2', '3']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['6', '0', '0', '0']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['11', '0', '0', '1']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['6', '0', '0', '0']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['13', '3', '2', '0']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['4', '0', '2', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '0']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['0', '2', '3', '0']
+eqir(): ok
+['7', '2', '0', '3']
+eqir(): ok
+eqri(): ok
+['13', '2', '3', '2']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '2']
+setr(): ok
+gtir(): ok
+['2', '1', '3', '3']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['14', '1', '3', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['11', '3', '1', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '2', '3', '3']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '2', '2', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '2']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['13', '2', '3', '0']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['10', '2', '3', '2']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['3', '3', '2', '2']
+setr(): ok
+gtir(): ok
+['2', '2', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '2', '2', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '3']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '0', '0', '1']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '3']
+setr(): ok
+gtir(): ok
+['13', '2', '3', '0']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['2', '2', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['8', '3', '3', '0']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['7', '2', '0', '3']
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '3']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['4', '0', '2', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['8', '2', '2', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['4', '0', '2', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['15', '1', '2', '1']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '2']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['15', '1', '2', '3']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['10', '3', '3', '0']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '2']
+setr(): ok
+gtir(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['6', '0', '0', '1']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['1', '1', '0', '3']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '3']
+setr(): ok
+gtir(): ok
+['13', '2', '1', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['12', '1', '0', '3']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['6', '0', '0', '1']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['3', '3', '2', '2']
+setr(): ok
+gtir(): ok
+['6', '0', '0', '1']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['8', '2', '2', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['8', '3', '3', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['10', '2', '3', '0']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['8', '3', '3', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['12', '1', '0', '0']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['11', '3', '2', '1']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['7', '3', '2', '1']
+eqir(): ok
+eqri(): ok
+['15', '1', '2', '3']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['7', '3', '0', '2']
+eqir(): ok
+eqri(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['8', '3', '3', '2']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['2', '1', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '3']
+setr(): ok
+gtir(): ok
+['7', '2', '0', '0']
+eqir(): ok
+eqri(): ok
+['3', '3', '2', '2']
+setr(): ok
+gtir(): ok
+['15', '1', '2', '2']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['8', '3', '3', '0']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['10', '3', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['14', '1', '3', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['13', '2', '1', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '3']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['0', '3', '2', '0']
+eqir(): ok
+['9', '1', '2', '3']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '3', '2', '3']
+eqir(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['7', '3', '2', '0']
+eqir(): ok
+eqri(): ok
+['10', '3', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '3']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['9', '1', '2', '2']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '0', '0', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '3']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '2']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['12', '1', '0', '3']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['4', '0', '2', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['2', '1', '3', '3']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['8', '3', '3', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['2', '1', '3', '3']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '2']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['13', '2', '1', '0']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '3']
+setr(): ok
+gtir(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['0', '3', '2', '1']
+eqir(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['8', '2', '2', '0']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['13', '2', '3', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['11', '2', '2', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '1']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['9', '1', '2', '0']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '3', '3', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['9', '1', '2', '3']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['7', '3', '0', '3']
+eqir(): ok
+eqri(): ok
+['12', '1', '0', '1']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['11', '3', '1', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '1']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['7', '2', '0', '2']
+eqir(): ok
+eqri(): ok
+['10', '2', '3', '0']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['15', '1', '2', '2']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '2', '3', '1']
+eqir(): ok
+['14', '1', '3', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['7', '3', '2', '3']
+eqir(): ok
+eqri(): ok
+['2', '2', '3', '3']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '2', '3', '2']
+eqir(): ok
+['2', '2', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['2', '1', '3', '0']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '1']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['7', '3', '0', '0']
+eqir(): ok
+eqri(): ok
+['8', '2', '2', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['12', '1', '0', '2']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '3']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['7', '2', '0', '1']
+eqir(): ok
+eqri(): ok
+['9', '1', '2', '3']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '0']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '3']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['10', '3', '3', '0']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['2', '1', '3', '0']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['2', '1', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '3']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '1', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '2', '3', '2']
+eqir(): ok
+['14', '1', '3', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['14', '1', '3', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['15', '1', '2', '2']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '2']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['3', '3', '2', '2']
+setr(): ok
+gtir(): ok
+['4', '0', '2', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['8', '3', '3', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['4', '0', '2', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['11', '3', '1', '3']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['15', '1', '2', '3']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '3', '2', '1']
+eqir(): ok
+['4', '0', '2', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['14', '1', '3', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['0', '3', '2', '3']
+eqir(): ok
+['14', '1', '3', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['14', '1', '3', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['1', '1', '0', '3']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['8', '3', '3', '2']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['4', '0', '2', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['11', '2', '1', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['8', '3', '3', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['14', '1', '3', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['6', '0', '0', '0']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['15', '1', '2', '3']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '3']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['15', '1', '2', '3']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '2']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['10', '2', '3', '0']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '0']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['7', '3', '2', '1']
+eqir(): ok
+eqri(): ok
+['9', '1', '2', '1']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '2', '3', '3']
+eqir(): ok
+['12', '1', '0', '0']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['8', '3', '3', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['13', '2', '0', '0']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['13', '3', '0', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['11', '2', '2', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '2', '3', '0']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '1', '3', '0']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '1']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['9', '1', '2', '2']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '3', '2', '1']
+eqir(): ok
+['7', '3', '0', '0']
+eqir(): ok
+eqri(): ok
+['2', '2', '3', '0']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '2', '3', '2']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['5', '0', '2', '0']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '0', '0', '3']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '2', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '3']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['4', '0', '2', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['11', '3', '2', '1']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['13', '2', '0', '2']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['14', '1', '3', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['10', '3', '3', '3']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['10', '3', '3', '3']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['9', '1', '2', '1']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '0']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '2']
+setr(): ok
+gtir(): ok
+['9', '1', '2', '3']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '2', '2', '0']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['11', '2', '2', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '2']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['15', '1', '2', '3']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '0']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['14', '1', '3', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['0', '2', '3', '3']
+eqir(): ok
+['7', '3', '2', '3']
+eqir(): ok
+eqri(): ok
+['0', '3', '2', '3']
+eqir(): ok
+['6', '0', '0', '1']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['9', '1', '2', '2']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '0', '0', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['2', '1', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['15', '1', '2', '3']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '2', '2', '0']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['3', '3', '2', '3']
+setr(): ok
+gtir(): ok
+['15', '1', '2', '1']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['2', '1', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '3']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['6', '0', '0', '0']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['6', '0', '0', '0']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['14', '1', '3', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['12', '1', '0', '0']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['5', '0', '2', '0']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '1']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['7', '3', '0', '1']
+eqir(): ok
+eqri(): ok
+['2', '1', '3', '2']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '1']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '3']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['4', '0', '2', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['11', '0', '0', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['13', '2', '3', '2']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['2', '1', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['7', '3', '0', '0']
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['4', '0', '2', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['8', '3', '3', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['4', '0', '2', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['13', '3', '2', '3']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['13', '2', '0', '3']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['8', '3', '3', '0']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['5', '0', '2', '0']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '2', '2', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['10', '2', '3', '3']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['9', '1', '2', '0']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['10', '3', '3', '2']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['10', '2', '3', '3']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['5', '0', '2', '0']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '3']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['14', '1', '3', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '2']
+setr(): ok
+gtir(): ok
+['7', '3', '2', '2']
+eqir(): ok
+eqri(): ok
+['3', '3', '2', '2']
+setr(): ok
+gtir(): ok
+['1', '1', '0', '3']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['12', '1', '0', '1']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['12', '1', '0', '2']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['9', '1', '2', '1']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['2', '1', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['8', '3', '3', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '2']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['4', '0', '2', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '1']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['8', '3', '3', '0']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['7', '3', '0', '1']
+eqir(): ok
+eqri(): ok
+['7', '3', '2', '2']
+eqir(): ok
+eqri(): ok
+['10', '3', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['7', '3', '0', '2']
+eqir(): ok
+eqri(): ok
+['0', '2', '3', '3']
+eqir(): ok
+['1', '1', '0', '3']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['5', '0', '2', '3']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['14', '1', '3', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['11', '3', '1', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '2', '2', '0']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['11', '0', '0', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '1']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '2']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['12', '1', '0', '0']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['10', '3', '3', '0']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['10', '3', '3', '3']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['7', '3', '2', '2']
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['15', '1', '2', '3']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['4', '0', '2', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '2']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '3', '0', '3']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['2', '2', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '2', '3', '3']
+eqir(): ok
+['2', '1', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '1']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '3']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['10', '3', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['9', '1', '2', '0']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['3', '3', '2', '3']
+setr(): ok
+gtir(): ok
+['3', '3', '2', '0']
+setr(): ok
+gtir(): ok
+['13', '2', '1', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['7', '3', '2', '3']
+eqir(): ok
+eqri(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['10', '3', '3', '0']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['8', '2', '2', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['5', '0', '2', '0']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '0']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '1']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '3', '2', '1']
+eqir(): ok
+['4', '0', '2', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '3']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['14', '1', '3', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['15', '1', '2', '3']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '3', '0', '0']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['11', '0', '0', '1']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '3', '3', '0']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['11', '2', '2', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['7', '3', '2', '1']
+eqir(): ok
+eqri(): ok
+['8', '2', '2', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['7', '3', '2', '3']
+eqir(): ok
+eqri(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['6', '0', '0', '2']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['9', '1', '2', '2']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '2', '2', '1']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '3']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '2']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['13', '3', '0', '0']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['6', '0', '0', '3']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['12', '1', '0', '0']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['14', '1', '3', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '2', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['8', '3', '3', '3']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['3', '3', '2', '3']
+setr(): ok
+gtir(): ok
+['8', '3', '3', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['10', '3', '3', '2']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '3']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '3', '0', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['12', '1', '0', '3']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['13', '3', '2', '3']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['12', '1', '0', '2']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['7', '3', '0', '2']
+eqir(): ok
+eqri(): ok
+['5', '0', '2', '3']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['1', '1', '0', '0']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['9', '1', '2', '1']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '3', '0', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['15', '1', '2', '1']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['9', '1', '2', '0']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '3']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['12', '1', '0', '1']
+addr(): ok
+addi(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['13', '2', '1', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['0', '2', '3', '1']
+eqir(): ok
+['8', '3', '3', '1']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['0', '2', '3', '2']
+eqir(): ok
+['6', '0', '0', '0']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['0', '2', '3', '1']
+eqir(): ok
+['11', '3', '3', '3']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['0', '3', '2', '1']
+eqir(): ok
+['4', '0', '2', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['13', '2', '0', '0']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['6', '0', '0', '1']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['9', '1', '2', '3']
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '3']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '2', '1', '1']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['2', '2', '3', '3']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['8', '2', '2', '0']
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+['4', '0', '2', '2']
+mulr(): ok
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+eqri(): ok
+eqrr(): ok
+['2', '1', '3', '1']
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '0', '0', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '2', '2', '3']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['5', '0', '2', '2']
+banr(): ok
+bani(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['11', '0', '0', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['13', '3', '0', '0']
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['14', '1', '3', '3']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['11', '2', '2', '0']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['6', '0', '0', '1']
+addr(): ok
+addi(): ok
+mulr(): ok
+muli(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+['14', '1', '3', '0']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['1', '1', '0', '2']
+addi(): ok
+mulr(): ok
+banr(): ok
+borr(): ok
+bori(): ok
+setr(): ok
+seti(): ok
+gtri(): ok
+eqir(): ok
+eqrr(): ok
+['3', '3', '2', '1']
+setr(): ok
+gtir(): ok
+['11', '2', '2', '2']
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '2']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['14', '1', '3', '1']
+mulr(): ok
+banr(): ok
+bani(): ok
+borr(): ok
+setr(): ok
+seti(): ok
+eqir(): ok
+eqrr(): ok
+['15', '1', '2', '0']
+banr(): ok
+bani(): ok
+gtir(): ok
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+eqrr(): ok
+['10', '3', '3', '1']
+gtri(): ok
+gtrr(): ok
+eqir(): ok
+eqri(): ok
+['0', '2', '3', '0']
+eqir(): ok
+642
