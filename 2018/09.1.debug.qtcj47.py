@@ -15,15 +15,15 @@ def insert_marble(current_marble, marble_put):
             current_marble -= len(marbles)
         marbles.insert(current_marble, marble_put)
     else:
-        print("Player:", current_player, "-", scores[current_player], end=" + ")
+#        print("Player:", current_player, "-", scores[current_player], end=" + ")
         scores[current_player] += marble_put
-        print(marble_put, "=", scores[current_player])
+#        print(marble_put, "=", scores[current_player])
         current_marble -= 7
         if current_marble < 0:
             current_marble += len(marbles)
-        print("Player:", current_player, "-", scores[current_player], "+", marbles[current_marble], end=" = ")
+#        print("Player:", current_player, "-", scores[current_player], "+", marbles[current_marble], end=" = ")
         scores[current_player] += marbles.pop(current_marble)
-        print(scores[current_player])
+#        print(scores[current_player])
     return(current_marble)
 
 marbles = [0]
