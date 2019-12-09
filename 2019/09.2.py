@@ -28,7 +28,7 @@ for code in line.split(","):
     program[pointer] = int(code)
     pointer += 1
 
-input = 1
+input = 2
 output = 0
 relative_base = 0
 param = MAX_PARAMS * [0]
