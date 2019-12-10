@@ -13,105 +13,106 @@ MAX_PARAMS = 3
 INPUT = 0
 WAIT_TIME = 0
 
+
 class Amplifier(threading.Thread):
     lock = threading.Lock()
 
-    def __init__(self, number):
+    def __init__(self, amp_id):
         threading.Thread.__init__(self)
-        self.Number = number
-        self.Input = input_queues[number]
-        self.Output = input_queues[number + 1]
+        self.id = amp_id
+        self.input = input_queues[amp_id]
+        self.output = input_queues[amp_id + 1]
 
         Amplifier.lock.acquire()
         input_file.seek(0)
-        self.Program = []
+        self.program = []
         line = input_file.read()
         for code in line.split(","):
-            self.Program.append(int(code))
+            self.program.append(int(code))
         Amplifier.lock.release()
 
-        self.Param = MAX_PARAMS * [0]
-        self.Mode = MAX_PARAMS * [0]
-        self.Address = MAX_PARAMS * [0]
+        self.param = MAX_PARAMS * [0]
+        self.mode = MAX_PARAMS * [0]
+        self.address = MAX_PARAMS * [0]
 
-        self.Pointer = 0
-        self.Opcode = self.Program[self.Pointer]
-        self.Instruction = self.Opcode % 100
-        self.Opcode //= 100
+        self.pointer = 0
+        self.opcode = self.program[self.pointer]
+        self.instruction = self.opcode % 100
+        self.opcode //= 100
 
     def print_debug(self, string):
         Amplifier.lock.acquire()
         print(string)
-        print("Instance: {}".format(self.Number))
-        print("Program code: {} {} {} {}".format(self.Program[self.Pointer], self.Program[self.Pointer + 1],
-                                                 self.Program[self.Pointer + 2], self.Program[self.Pointer + 3]))
-        print("instruction: {}".format(self.Instruction))
-        print("params: {} {} {}".format(self.Param[0], self.Param[1], self.Param[2]))
-        print("modes: {} {} {}".format(self.Mode[0], self.Mode[1], self.Mode[2]))
-        print("addresses: {} {} {}".format(self.Address[0], self.Address[1], self.Address[2]))
-        print("input_queue: {}".format(self.Input))
+        print("Instance: {}".format(self.id))
+        print("Program code: {} {} {} {}".format(self.program[self.pointer], self.program[self.pointer + 1],
+                                                 self.program[self.pointer + 2], self.program[self.pointer + 3]))
+        print("instruction: {}".format(self.instruction))
+        print("params: {} {} {}".format(self.param[0], self.param[1], self.param[2]))
+        print("modes: {} {} {}".format(self.mode[0], self.mode[1], self.mode[2]))
+        print("addresses: {} {} {}".format(self.address[0], self.address[1], self.address[2]))
+        print("input_queue: {}".format(self.input))
         Amplifier.lock.release()
 
     def run(self):
         try:
-            while self.Instruction != 99:
-                if self.Instruction in [1, 2, 7, 8]:
-                    params = 3
-                elif self.Instruction in [5, 6]:
-                    params = 2
-                elif self.Instruction in [3, 4]:
-                    params = 1
-                elif self.Instruction == 99:
-                    params = 0
+            while self.instruction != 99:
+                if self.instruction in [1, 2, 7, 8]:
+                    params_count = 3
+                elif self.instruction in [5, 6]:
+                    params_count = 2
+                elif self.instruction in [3, 4]:
+                    params_count = 1
+                elif self.instruction == 99:
+                    params_count = 0
                 else:
-                    self.print_debug("Unknown instruction: {}".format(self.Instruction))
+                    self.print_debug("Unknown instruction: {}".format(self.instruction))
                     sys.exit(1)
-                for i in range(params):
-                    self.Param[i] = self.Program[self.Pointer + i + 1]
-                    self.Mode[i] = self.Opcode % 10
-                    self.Opcode //= 10
-                    if self.Mode[i] == 0:
-                        self.Address[i] = self.Param[i]
-                        self.Param[i] = self.Program[self.Param[i]]
-                if self.Instruction == 1:
-                    self.Program[self.Address[2]] = self.Param[0] + self.Param[1]
-                elif self.Instruction == 2:
-                    self.Program[self.Address[2]] = self.Param[0] * self.Param[1]
-                elif self.Instruction == 3:
-                    while len(self.Input) == 0:
+                for param_id in range(params_count):
+                    self.param[param_id] = self.program[self.pointer + param_id + 1]
+                    self.mode[param_id] = self.opcode % 10
+                    self.opcode //= 10
+                    if self.mode[param_id] == 0:
+                        self.address[param_id] = self.param[param_id]
+                        self.param[param_id] = self.program[self.param[param_id]]
+                if self.instruction == 1:
+                    self.program[self.address[2]] = self.param[0] + self.param[1]
+                elif self.instruction == 2:
+                    self.program[self.address[2]] = self.param[0] * self.param[1]
+                elif self.instruction == 3:
+                    while len(self.input) == 0:
                         time.sleep(WAIT_TIME)
                     Amplifier.lock.acquire()
-                    self.Program[self.Address[0]] = self.Input[0]
-                    del self.Input[0]
+                    self.program[self.address[0]] = self.input[0]
+                    del self.input[0]
                     Amplifier.lock.release()
-                elif self.Instruction == 4:
+                elif self.instruction == 4:
                     Amplifier.lock.acquire()
-                    self.Output.append(self.Param[0])
+                    self.output.append(self.param[0])
                     Amplifier.lock.release()
-                elif self.Instruction == 5:
-                    if self.Param[0]:
-                        params = self.Param[1] - self.Pointer - 1
-                elif self.Instruction == 6:
-                    if not self.Param[0]:
-                        params = self.Param[1] - self.Pointer - 1
-                elif self.Instruction == 7:
-                    if self.Param[0] < self.Param[1]:
-                        self.Program[self.Address[2]] = 1
+                elif self.instruction == 5:
+                    if self.param[0]:
+                        params_count = self.param[1] - self.pointer - 1
+                elif self.instruction == 6:
+                    if not self.param[0]:
+                        params_count = self.param[1] - self.pointer - 1
+                elif self.instruction == 7:
+                    if self.param[0] < self.param[1]:
+                        self.program[self.address[2]] = 1
                     else:
-                        self.Program[self.Address[2]] = 0
-                elif self.Instruction == 8:
-                    if self.Param[0] == self.Param[1]:
-                        self.Program[self.Address[2]] = 1
+                        self.program[self.address[2]] = 0
+                elif self.instruction == 8:
+                    if self.param[0] == self.param[1]:
+                        self.program[self.address[2]] = 1
                     else:
-                        self.Program[self.Address[2]] = 0
-                self.Pointer += params + 1
-                self.Opcode = self.Program[self.Pointer]
-                self.Instruction = self.Opcode % 100
-                self.Opcode //= 100
+                        self.program[self.address[2]] = 0
+                self.pointer += params_count + 1
+                self.opcode = self.program[self.pointer]
+                self.instruction = self.opcode % 100
+                self.opcode //= 100
         except Exception as e:
             self.print_debug("Error caught: {}".format(e.args[0]))
             sys.exit(1)
-        running_threads[self.Number] = 0
+        running_threads[self.id] = 0
 
 
 phase_orders = []
@@ -134,7 +135,6 @@ for number in range(56789, 98766):
 phase_order_number = 0
 max_output = -999999
 for current_phase_order in phase_orders:
-    # print("Current phase order: {} ({})".format(current_phase_order, phase_order_number))
     input_queues = []
     running_threads = []
     for phase in current_phase_order:
@@ -142,7 +142,6 @@ for current_phase_order in phase_orders:
         running_threads.append(0)
     input_queues.append(input_queues[0])
     input_queues[0].append(INPUT)
-    # print("Input queues: {}".format(input_queues))
 
     threads = []
     for i in range(5):

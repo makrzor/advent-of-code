@@ -13,7 +13,7 @@ MAX_PARAMS = 3
 def print_debug(string):
     print(string)
     print("Program code: {} {} {} {}".format(program[pointer], program[pointer + 1],
-                                            program[pointer + 2], program[pointer + 3]))
+                                             program[pointer + 2], program[pointer + 3]))
     print("instruction: {}".format(instruction))
     print("params: {} {} {}".format(param[0], param[1], param[2]))
     print("modes: {} {} {}".format(mode[0], mode[1], mode[2]))
