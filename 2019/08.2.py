@@ -41,9 +41,9 @@ for x in range(ROWS):
             if printed:
                 continue
             elif layers[layer][x][y] == 0:
-                print("#", end="")
+                print(".", end="")
                 printed = True
             elif layers[layer][x][y] == 1:
-                print(".", end="")
+                print("#", end="")
                 printed = True
     print()
