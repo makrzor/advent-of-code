@@ -12,6 +12,7 @@ PAINT_MODE = 0
 MOVE_MODE = 1
 MOVES = [(0, -1), (1, 0), (0, 1), (-1, 0)]
 
+
 def print_debug(string):
     print(string)
     print("Program code: {} {} {} {}".format(program[pointer], program[pointer + 1],
