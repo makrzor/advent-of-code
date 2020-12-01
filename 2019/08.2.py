@@ -21,7 +21,6 @@ for line in input_file:
     x = 0
     y = 0
     while line[digit] != "\n":
-        # print(layers, layer, x, y, line[digit])
         layers[layer][x].append(int(line[digit]))
         digit += 1
         y += 1
