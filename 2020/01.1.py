@@ -7,9 +7,16 @@ else:
     filename = sys.argv[0].split(".")[0] + ".txt"
 input_file = open(filename, 'r')
 
-fuel_required = 0
+DESIRED_SUM = 2020
 
-for mass in input_file:
-    fuel_required += int(mass) // 3 - 2
+expenses = []
 
-print(fuel_required)
+for line in input_file:
+    expenses.append(int(line))
+
+for i in range(len(expenses)):
+    for j in range(i + 1, len(expenses)):
+        if expenses[i] + expenses[j] == DESIRED_SUM:
+            print(expenses[i] * expenses[j])
+            sys.exit(0)
+
