@@ -1,10 +1,11 @@
 #!/usr/bin/env python
+import os
 import sys
 
 if len(sys.argv) > 1:
     filename = sys.argv[1]
 else:
-    filename = sys.argv[0].split(".")[0] + ".txt"
+    filename = os.path.basename(sys.argv[0]).split(".")[0] + ".txt"
 input_file = open(filename, 'r')
 
 DESIRED_SUM = 2020
