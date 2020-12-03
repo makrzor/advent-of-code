@@ -20,4 +20,3 @@ for i in range(len(expenses)):
         if expenses[i] + expenses[j] == DESIRED_SUM:
             print(expenses[i] * expenses[j])
             sys.exit(0)
-
