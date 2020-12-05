@@ -1,16 +1,10 @@
-#!/usr/bin/env python
-import os
-import sys
+#!/usr/bin/env python3
 
-if len(sys.argv) > 1:
-    filename = sys.argv[1]
-else:
-    filename = os.path.basename(sys.argv[0]).split(".")[0] + ".txt"
-input_file = open(filename, 'r')
+from __init__ import *
 
 valid_passwords_count = 0
 
-for line in input_file:
+for line in get_input_stream():
     positions, character, password = line.split(" ")
     character = character[0]
     matches_count = 0

@@ -1,13 +1,8 @@
-#!/usr/bin/env python
-import os
-import re
-import sys
+#!/usr/bin/env python3
 
-if len(sys.argv) > 1:
-    filename = sys.argv[1]
-else:
-    filename = os.path.basename(sys.argv[0]).split(".")[0] + ".txt"
-input_file = open(filename, 'r')
+import re
+
+from __init__ import *
 
 REQUIRED_PASSPORT_FIELDS = ['byr', 'iyr', 'eyr', 'hgt', 'hcl', 'ecl', 'pid']
 NUMBER_FIELDS_CONSTRAINTS = {
@@ -62,7 +57,7 @@ def is_passport_valid(passport):
     return True
 
 
-for line in input_file:
+for line in get_input_stream():
     line = line.rstrip()
     if not line:
         passports.append({})

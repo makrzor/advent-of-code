@@ -1,22 +1,16 @@
-#!/usr/bin/env python
-import os
-import sys
+#!/usr/bin/env python3
 
-if len(sys.argv) > 1:
-    filename = sys.argv[1]
-else:
-    filename = os.path.basename(sys.argv[0]).split(".")[0] + ".txt"
-input_file = open(filename, 'r')
+from __init__ import *
 
 DESIRED_SUM = 2020
 
 expenses = []
 
-for line in input_file:
+for line in get_input_stream():
     expenses.append(int(line))
 
 for i in range(len(expenses)):
     for j in range(i + 1, len(expenses)):
         if expenses[i] + expenses[j] == DESIRED_SUM:
             print(expenses[i] * expenses[j])
-            sys.exit(0)
+            sys.exit(EXIT_SUCCESS)
