@@ -25,12 +25,12 @@ def is_field_valid(field_type, field_value):
     return True
 
 
-def is_passport_valid(passport):
-    for required_field in REQUIRED_PASSPORT_FIELDS:
-        if required_field not in passport:
+def is_passport_valid(passport_data):
+    for required_field_id in REQUIRED_PASSPORT_FIELDS:
+        if required_field_id not in passport_data:
             return False
-    for field in passport:
-        if not is_field_valid(field, passport[field]):
+    for field_id in passport_data:
+        if not is_field_valid(field_id, passport_data[field_id]):
             return False
     return True
 
@@ -40,9 +40,9 @@ for line in get_input_stream():
     if not line:
         passports.append({})
         continue
-    for field in line.split():
-        field_id, field_value = field.split(":")
-        passports[-1][field_id] = field_value
+    for read_field in line.split():
+        read_field_id, read_field_value = read_field.split(":")
+        passports[-1][read_field_id] = read_field_value
 
 valid_passports_count = 0
 
