@@ -15,9 +15,7 @@ def decode(data):
 max_seat_id = 0
 
 for line in get_input_stream():
-    row = decode(line[:7])
-    column = decode(line[7:-1])
-    seat_id = row * 8 + column
+    seat_id = decode(line)
     if seat_id > max_seat_id:
         max_seat_id = seat_id
 

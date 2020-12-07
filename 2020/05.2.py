@@ -15,9 +15,7 @@ def decode(data):
 used_seat_ids = []
 
 for line in get_input_stream():
-    row = decode(line[:7])
-    column = decode(line[7:-1])
-    seat_id = row * 8 + column
+    seat_id = decode(line)
     used_seat_ids.append(seat_id)
 
 for seat_id in range(max(used_seat_ids), 0, -1):
