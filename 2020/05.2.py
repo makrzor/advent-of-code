@@ -15,6 +15,7 @@ def decode(data):
 used_seat_ids = []
 
 for line in get_input_stream():
+    line = line.strip()
     seat_id = decode(line)
     used_seat_ids.append(seat_id)
 
