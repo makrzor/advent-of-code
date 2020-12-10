@@ -4,7 +4,7 @@ from __init__ import *
 
 ones = 0
 threes = 0
-adapters = sorted([int(adapter) for adapter in get_input_stream()])
+adapters = sorted([int(line) for line in get_input_stream()])
 
 adapters = [0] + adapters + [adapters[-1] + 3]
 for i in range(1, len(adapters)):
@@ -13,7 +13,5 @@ for i in range(1, len(adapters)):
         ones += 1
     elif joltage_diff == 3:
         threes += 1
-    else:
-        sys.exit(1)
 
 print(ones * threes)

@@ -8,6 +8,8 @@ p1 = 0
 p2 = 0
 contents = {}
 
+ints_1 = sorted([int(line) for line in get_input_stream()])
+
 for line in get_input_stream():
     line = line.strip()
     words = line.split()

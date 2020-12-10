@@ -5,7 +5,7 @@ from __init__ import *
 ARRANGEMETS_MAP = [0, 1, 1, 2, 4, 7]
 last_3_diff = 0
 arrangements = 1
-adapters = sorted([int(adapter) for adapter in get_input_stream()])
+adapters = sorted([int(line) for line in get_input_stream()])
 
 adapters = [0] + adapters + [adapters[-1] + 3]
 for i in range(1, len(adapters)):

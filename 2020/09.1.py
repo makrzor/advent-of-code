@@ -12,14 +12,10 @@ def is_preamble_valid(index):
                 return True
     return False
 
-data = []
 
-for line in get_input_stream():
-    line = line.strip()
-    data.append(int(line))
-
+data = [int(line) for line in get_input_stream()]
 preamble_length = PREAMBLE_DEFAULT_LENGTH
-if len(data) == 20:
+if len(data) <= PREAMBLE_DEFAULT_LENGTH:
     preamble_length = 5
 
 for i in range(preamble_length, len(data)):
