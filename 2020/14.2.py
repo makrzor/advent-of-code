@@ -18,9 +18,9 @@ for line in get_input_stream():
             elif mask_form[i] == "X":
                 mask_float_bits.append(mask_length - i - 1)
     elif line.startswith("mem"):
-        address_base = int(line.split("[")[1].split("]")[0])
+        base_address = int(line.split("[")[1].split("]")[0])
         value = int(line.split()[2])
-        addresses = set([address_base | mask_1])
+        addresses = set([base_address | mask_1])
         for float_bit in mask_float_bits:
             mask = 1 << float_bit
             addresses_to_add = set()
