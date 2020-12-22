@@ -3,36 +3,38 @@
 from __init__ import *
 
 
-def play_a_game(player_1_deck, player_2_deck):
-    decks = []
-    while player_1_deck and player_2_deck:
-        decks_combined = player_1_deck + ["."] + player_2_deck
+def play_a_game(p1_deck, p2_deck):
+    decks = set()
+    while p1_deck and p2_deck:
+        decks_combined = p1_deck + "." + p2_deck
         if decks_combined in decks:
-            return [0, player_1_deck]
-        decks.append(decks_combined)
-        player_1_card = player_1_deck.pop(0)
-        player_2_card = player_2_deck.pop(0)
-        if len(player_1_deck) < player_1_card or len(player_2_deck) < player_2_card:
-            result = 0 if player_1_card > player_2_card else 1
+            return [True, p1_deck]
+        decks.add(decks_combined)
+        p1_card, p1_deck = p1_deck[0], p1_deck[1:]
+        p2_card, p2_deck = p2_deck[0], p2_deck[1:]
+        p1_card_value = ord(p1_card)
+        p2_card_value = ord(p2_card)
+        if len(p1_deck) < p1_card_value or len(p2_deck) < p2_card_value:
+            p1_won = p1_card > p2_card
         else:
-            result, _ = play_a_game(player_1_deck[:player_1_card], player_2_deck[:player_2_card])
-        if result:
-            player_2_deck += [player_2_card, player_1_card]
+            p1_won, _ = play_a_game(p1_deck[:p1_card_value], p2_deck[:p2_card_value])
+        if p1_won:
+            p1_deck += p1_card + p2_card
         else:
-            player_1_deck += [player_1_card, player_2_card]
-    if player_1_deck:
-        return [0, player_1_deck]
+            p2_deck += p2_card + p1_card
+    if p1_deck:
+        return [True, p1_deck]
     else:
-        return [1, player_2_deck]
+        return [False, p2_deck]
 
 
 decks = get_input_stream().read()
-player_1_deck, player_2_deck = decks[:-1].split("\n\n")
-player_1_deck = [int(x) for x in player_1_deck.split("\n")[1:]]
-player_2_deck = [int(x) for x in player_2_deck.split("\n")[1:]]
-decks = player_1_deck + player_2_deck
-_, decks = play_a_game(player_1_deck, player_2_deck)
+p1_deck, p2_deck = decks[:-1].split("\n\n")
+p1_deck = "".join([chr(int(x)) for x in p1_deck.split("\n")[1:]])
+p2_deck = "".join([chr(int(x)) for x in p2_deck.split("\n")[1:]])
+decks = p1_deck + p2_deck
+_, decks = play_a_game(p1_deck, p2_deck)
 score = 0
 for i in range(len(decks) + 1):
-    score += i * decks[- i]
+    score += i * ord(decks[- i])
 print(score)
