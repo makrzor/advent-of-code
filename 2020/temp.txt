@@ -1,0 +1,2546 @@
+[0, 1]
+[1327, 3571, 3391, 1823]
+82
+1327
+Found 0/0 in 1327...
+Call to place a tile: tile 1327, rotation 3, flip True, new_row True.
+[[82, 342, 410, 476], [296, 426, 358, 238]]
+...#.#..#.
+.........#
+#..#...#..
+#........#
+###.#.....
+.........#
+##.#......
+#........#
+#..#...#.#
+.#.##..##.
+Returned from place a tile: right border: 238, bottom border: 358.
+
+238
+2591
+Found 1/3 in 2591...
+Call to place a tile: tile 2591, rotation 0, flip False, new_row False.
+[[379, 840, 164, 476], [890, 75, 148, 238]]
+.#.####.##
+.#.#.....#
+#..##..#..
+#...#.#..#
+##.##.#...
+.....###..
+#....##..#
+#....#..#.
+##.#..##..
+..#..#.#..
+Returned from place a tile: right border: 840, bottom border: 164.
+
+840
+3623
+Found 1/1 in 3623...
+Call to place a tile: tile 3623, rotation 2, flip False, new_row False.
+[[816, 75, 577, 875], [51, 840, 521, 859]]
+##..##....
+#..#.#....
+.....#....
+#........#
+.#.....#..
+##..#.#.#.
+#....#...#
+..........
+#.##.....#
+#.....#..#
+Returned from place a tile: right border: 875, bottom border: 816.
+
+875
+2663
+Found 0/0 in 2663...
+Call to place a tile: tile 2663, rotation 0, flip True, new_row False.
+[[875, 968, 70, 185], [859, 79, 392, 628]]
+##.##.#.##
+.#.#.....#
+.#.##....#
+#....#...#
+#..#..##..
+#.###...#.
+.......#.#
+#..#......
+.....#....
+.##...#...
+Returned from place a tile: right border: 392, bottom border: 79.
+
+392
+3671
+Found 1/1 in 3671...
+Call to place a tile: tile 3671, rotation 2, flip False, new_row False.
+[[848, 70, 459, 925], [43, 392, 846, 743]]
+##.#.#....
+........#.
+##.#....#.
+#.##.#.#.#
+##....##..
+.##...#.#.
+.#.#...#..
+##...##..#
+#.#....###
+##.#..###.
+Returned from place a tile: right border: 925, bottom border: 848.
+
+925
+3011
+Found 0/1 in 3011...
+Call to place a tile: tile 3011, rotation 3, flip True, new_row False.
+[[737, 925, 895, 779], [541, 743, 1019, 835]]
+#.###....#
+#...#.#..#
+........##
+#.....#...
+..#...#.#.
+......#.##
+.....##..#
+.##..#...#
+#...#.....
+#######.##
+Returned from place a tile: right border: 835, bottom border: 1019.
+
+835
+1889
+Found 0/0 in 1889...
+Call to place a tile: tile 1889, rotation 0, flip True, new_row False.
+[[835, 976, 86, 149], [779, 47, 424, 676]]
+##.#....##
+..###....#
+#..#.....#
+.#......##
+##..#.#...
+....#...##
+......#...
+#.##....#.
+...##..#..
+.##.#.#...
+Returned from place a tile: right border: 424, bottom border: 47.
+
+424
+2713
+Found 0/1 in 2713...
+Call to place a tile: tile 2713, rotation 3, flip True, new_row False.
+[[472, 424, 416, 218], [110, 86, 22, 364]]
+.###.##...
+#.##...#.#
+.....#...#
+#.........
+##...#..##
+.###.#.##.
+#.#..##.##
+#...#..##.
+...#...##.
+.....#.##.
+Returned from place a tile: right border: 364, bottom border: 22.
+
+364
+2861
+Found 0/3 in 2861...
+Call to place a tile: tile 2861, rotation 1, flip True, new_row False.
+[[23, 836, 224, 364], [928, 139, 28, 218]]
+.....#.###
+.#####.###
+###.#...#.
+##..###..#
+..........
+##...#.#..
+##..#..#..
+.##..#...#
+#.....#...
+.....###..
+Returned from place a tile: right border: 139, bottom border: 928.
+
+139
+1307
+Found 0/3 in 1307...
+Call to place a tile: tile 1307, rotation 1, flip True, new_row False.
+[[1004, 320, 490, 139], [223, 10, 350, 836]]
+#####.##..
+#...#..###
+..........
+##.#.....#
+..#.#..##.
+....#.#.#.
+..........
+#.........
+.#.....#..
+.#.#.####.
+Returned from place a tile: right border: 10, bottom border: 223.
+
+10
+1031
+Found 0/3 in 1031...
+Call to place a tile: tile 1031, rotation 1, flip True, new_row False.
+[[360, 265, 538, 10], [90, 578, 353, 320]]
+.#.##.#...
+##.##..#.#
+.....#....
+#..#......
+......#...
+.....#.#..
+.....#.#.#
+.#...#....
+.##....##.
+.#.##....#
+Returned from place a tile: right border: 578, bottom border: 90.
+
+578
+3571
+Found 0/3 in 3571...
+Call to place a tile: tile 3571, rotation 1, flip True, new_row False.
+[[169, 729, 731, 578], [596, 621, 877, 265]]
+..#.#.#..#
+#....#....
+.....##..#
+.....###.#
+....#.#...
+......#..#
+#.......##
+..........
+..#.##..#.
+##.##.##.#
+Returned from place a tile: right border: 621, bottom border: 596.
+
+358
+1663
+Found 1/1 in 1663...
+Call to place a tile: tile 1663, rotation 3, flip False, new_row True.
+[[686, 410, 427, 937], [469, 358, 854, 599]]
+#.#.#.###.
+....##...#
+...#...#.#
+##...####.
+.#........
+##....#..#
+.....#...#
+#..#...#..
+#######..#
+##.#.#.##.
+Returned from place a tile: right border: 427, bottom border: 937.
+
+427
+1451
+Found 0/3 in 1451...
+Call to place a tile: tile 1451, rotation 1, flip True, new_row False.
+[[1012, 260, 164, 427], [191, 130, 148, 854]]
+######.#..
+##.###...#
+...##.....
+#..##...#.
+.....#..#.
+#..#..#...
+..#...#...
+##..##...#
+#......##.
+..#..#.#..
+Returned from place a tile: right border: 130, bottom border: 191.
+
+130
+3467
+Found 1/2 in 3467...
+Call to place a tile: tile 3467, rotation 1, flip False, new_row False.
+[[1021, 884, 260, 51], [767, 187, 130, 816]]
+########.#
+##...#.#.#
+...#......
+.....#.#.#
+#.....#..#
+#........#
+...#......
+..#.....##
+.#.##..#..
+..#.....#.
+Returned from place a tile: right border: 1021, bottom border: 884.
+
+1021
+1487
+Found 1/1 in 1487...
+Call to place a tile: tile 1487, rotation 2, flip False, new_row False.
+[[401, 767, 968, 266], [550, 1021, 79, 322]]
+.##..#...#
+##.##.....
+...#....##
+##..#..#.#
+.####....#
+.#.#..#..#
+..##.....#
+..##....##
+#.....#..#
+...#..####
+Returned from place a tile: right border: 266, bottom border: 401.
+
+266
+3319
+Found 1/3 in 3319...
+Call to place a tile: tile 3319, rotation 0, flip False, new_row False.
+[[43, 784, 192, 322], [848, 35, 12, 266]]
+....#.#.##
+#.###..###
+.#....#.#.
+.....#..#.
+.##....#..
+....#...##
+#.#...#...
+.......#..
+#.#.###.#.
+......##..
+Returned from place a tile: right border: 784, bottom border: 192.
+
+784
+3637
+Found 0/0 in 3637...
+Call to place a tile: tile 3637, rotation 0, flip True, new_row False.
+[[784, 421, 619, 1019], [35, 662, 857, 895]]
+##...#....
+#.#..#...#
+....##...#
+#.........
+#......#.#
+##...#.#..
+#.........
+##.....###
+##.#......
+##.#.##..#
+Returned from place a tile: right border: 857, bottom border: 662.
+
+857
+3457
+Found 0/0 in 3457...
+Call to place a tile: tile 3457, rotation 0, flip True, new_row False.
+[[857, 916, 484, 47], [619, 167, 158, 976]]
+##.#.##..#
+##.#...#.#
+#..#...#.#
+###....#..
+.#....#...
+#...##..##
+..........
+.........#
+..#..#..#.
+..#..####.
+Returned from place a tile: right border: 158, bottom border: 167.
+
+158
+1021
+Found 1/1 in 1021...
+Call to place a tile: tile 1021, rotation 2, flip False, new_row False.
+[[886, 484, 416, 61], [443, 158, 22, 752]]
+##.###.##.
+.#....#..#
+#.....#..#
+#..#..##.#
+##.....#.#
+#.#....##.
+..#.....#.
+.#.....#.#
+.#..#.....
+.....#.##.
+Returned from place a tile: right border: 61, bottom border: 886.
+
+61
+3673
+Found 0/0 in 3673...
+Call to place a tile: tile 3673, rotation 0, flip True, new_row False.
+[[61, 772, 87, 928], [752, 131, 936, 23]]
+....####.#
+.#...###.#
+....#..#..
+.#.#.#....
+..#..#....
+#....##.#.
+.....#....
+#...#....#
+#..#.#....
+###.#.#...
+Returned from place a tile: right border: 936, bottom border: 131.
+
+936
+1277
+Found 1/2 in 1277...
+Call to place a tile: tile 1277, rotation 1, flip False, new_row False.
+[[104, 436, 87, 1004], [88, 182, 936, 223]]
+...##.#...
+......#..#
+###......#
+#.........
+..##.....#
+#.#....###
+#.........
+#..#.....#
+#.........
+###.#.#...
+Returned from place a tile: right border: 104, bottom border: 436.
+
+104
+3187
+Found 1/2 in 3187...
+Call to place a tile: tile 3187, rotation 1, flip False, new_row False.
+[[439, 830, 88, 360], [950, 499, 104, 90]]
+.##.##.###
+.#.....#.#
+..##.##.#.
+#.###.....
+.##.##..##
+#..#.....#
+#...#.#..#
+..#.#...##
+#........#
+...##.#...
+Returned from place a tile: right border: 439, bottom border: 830.
+
+439
+3823
+Found 0/0 in 3823...
+Call to place a tile: tile 3823, rotation 0, flip True, new_row False.
+[[439, 634, 11, 596], [950, 377, 832, 169]]
+.##.##.###
+..#.#.....
+#.#####.#.
+.#......##
+#.#..#.#.#
+...#..##.#
+##..##...#
+....#..#..
+....#....#
+##.#......
+Returned from place a tile: right border: 832, bottom border: 377.
+
+937
+3911
+Found 0/3 in 3911...
+Call to place a tile: tile 3911, rotation 0, flip True, new_row True.
+[[745, 829, 927, 937], [605, 755, 999, 599]]
+#.###.#..#
+.##......#
+...#......
+#...#..##.
+.......#.#
+#.#......#
+...##..#.#
+##..#..#.#
+#......##.
+#####..###
+Returned from place a tile: right border: 999, bottom border: 755.
+
+999
+3943
+Found 1/0 in 3943...
+Call to place a tile: tile 3943, rotation 3, flip False, new_row False.
+[[927, 1012, 396, 445], [999, 191, 198, 758]]
+###..#####
+.#.#...#.#
+##..#.#.##
+#..#....##
+#...#....#
+#..#..##.#
+..#....##.
+#.......##
+#.........
+..##...##.
+Returned from place a tile: right border: 396, bottom border: 445.
+
+396
+3191
+Found 1/3 in 3191...
+Call to place a tile: tile 3191, rotation 0, flip False, new_row False.
+[[187, 560, 384, 198], [884, 49, 6, 396]]
+..#.###.##
+#...#...#.
+#....#....
+..#.....#.
+...#..#.##
+........##
+#..#......
+#.........
+.#........
+.......##.
+Returned from place a tile: right border: 560, bottom border: 384.
+
+560
+2551
+Found 1/0 in 2551...
+Call to place a tile: tile 2551, rotation 3, flip False, new_row False.
+[[49, 550, 340, 176], [560, 401, 170, 52]]
+....##...#
+...#.##...
+.##.......
+...#..#...
+#.#...##.#
+#..##.#...
+.##..#.##.
+##....#..#
+...#.....#
+..#.#.#.#.
+Returned from place a tile: right border: 340, bottom border: 176.
+
+340
+3557
+Found 1/0 in 3557...
+Call to place a tile: tile 3557, rotation 3, flip False, new_row False.
+[[170, 12, 449, 962], [340, 192, 526, 271]]
+..#.#.#.#.
+##........
+.......#..
+.##.......
+..........
+....#..#..
+#...#....#
+#..#####.#
+#..#...##.
+#.....###.
+Returned from place a tile: right border: 449, bottom border: 962.
+
+449
+3917
+Found 1/3 in 3917...
+Call to place a tile: tile 3917, rotation 0, flip False, new_row False.
+[[421, 580, 53, 526], [662, 137, 688, 449]]
+.##.#..#.#
+#.##....#.
+#.....#...
+#.#...#.##
+..........
+..........
+.#....#.#.
+.........#
+.....#....
+#.#.##....
+Returned from place a tile: right border: 580, bottom border: 53.
+
+580
+2111
+Found 0/1 in 2111...
+Call to place a tile: tile 2111, rotation 3, flip True, new_row False.
+[[167, 580, 111, 768], [916, 137, 984, 3]]
+..#.#..###
+.....#....
+..#.#.##..
+.#.......#
+..#.......
+..#..#.#..
+.#.....#..
+....#....#
+##.#...#..
+####.##...
+Returned from place a tile: right border: 3, bottom border: 984.
+
+3
+1847
+Found 1/1 in 1847...
+Call to place a tile: tile 1847, rotation 2, flip False, new_row False.
+[[943, 768, 443, 813], [983, 3, 886, 723]]
+###.#.####
+..##.....#
+#.......#.
+##......#.
+..#.#.....
+#.......#.
+.#..#...#.
+.#......#.
+#.....###.
+##.###.##.
+Returned from place a tile: right border: 813, bottom border: 943.
+
+813
+1231
+Found 0/3 in 1231...
+Call to place a tile: tile 1231, rotation 1, flip True, new_row False.
+[[748, 246, 131, 813], [221, 444, 772, 723]]
+#.###.##..
+..#.......
+#..#.....#
+#..#.....#
+.#.....#.#
+##......##
+.#.###....
+..#....###
+##.....#.#
+##.....#..
+Returned from place a tile: right border: 444, bottom border: 221.
+
+444
+2131
+Found 0/1 in 2131...
+Call to place a tile: tile 2131, rotation 3, flip True, new_row False.
+[[436, 444, 247, 516], [182, 246, 956, 129]]
+.##.##.#..
+...#.#...#
+###.####.#
+......###.
+.#.#..#.##
+..#..#.###
+......#.##
+..##..#..#
+...#.#....
+###.####..
+Returned from place a tile: right border: 129, bottom border: 956.
+
+129
+2819
+Found 0/0 in 2819...
+Call to place a tile: tile 2819, rotation 0, flip True, new_row False.
+[[129, 715, 689, 830], [516, 845, 565, 499]]
+..#......#
+#....#....
+##..#...##
+#......###
+#..##.....
+#.###.#...
+.##...####
+..........
+#........#
+#...##.#.#
+Returned from place a tile: right border: 565, bottom border: 845.
+
+565
+2311
+Found 1/0 in 2311...
+Call to place a tile: tile 2311, rotation 3, flip False, new_row False.
+[[689, 634, 24, 65], [565, 377, 96, 520]]
+#.#.##...#
+..#....#..
+..#..#..#.
+..#.#.#.##
+......####
+..#..#..##
+##....##.#
+.#..#.....
+.....##..#
+...##.....
+Returned from place a tile: right border: 24, bottom border: 65.
+
+755
+1039
+Found 1/2 in 1039...
+Call to place a tile: tile 1039, rotation 2, flip False, new_row True.
+[[746, 355, 829, 1009], [349, 794, 755, 575]]
+#.###.#.#.
+.##......#
+.#...#..#.
+.#...#...#
+#.#...#..#
+##.#...#..
+#.##......
+#.#.#..#..
+##...#..##
+#.####..##
+Returned from place a tile: right border: 1009, bottom border: 746.
+
+1009
+1361
+Found 1/0 in 1361...
+Call to place a tile: tile 1361, rotation 3, flip False, new_row False.
+[[575, 758, 352, 237], [1009, 445, 26, 732]]
+#...######
+...#......
+#.#.#.#..#
+#.....#.##
+....#...##
+#.......##
+#......#..
+#.....#..#
+..#....#.#
+.....##.#.
+Returned from place a tile: right border: 352, bottom border: 237.
+
+352
+1693
+Found 1/2 in 1693...
+Call to place a tile: tile 1693, rotation 1, flip False, new_row False.
+[[371, 606, 26, 6], [826, 489, 352, 384]]
+.#.###..##
+#.........
+##...#....
+..#....#.#
+...#......
+...#.#...#
+.#.....###
+.....#####
+...##....#
+.#.##.....
+Returned from place a tile: right border: 371, bottom border: 606.
+
+371
+2153
+Found 1/1 in 2153...
+Call to place a tile: tile 2153, rotation 2, flip False, new_row False.
+[[437, 826, 52, 272], [694, 371, 176, 34]]
+.##.##.#.#
+.........#
+....#..##.
+...#......
+#..#....##
+....#....#
+..##.#...#
+........#.
+##..#.##.#
+..#.##....
+Returned from place a tile: right border: 272, bottom border: 437.
+
+272
+1867
+Found 1/3 in 1867...
+Call to place a tile: tile 1867, rotation 0, flip False, new_row False.
+[[271, 885, 678, 34], [962, 699, 405, 272]]
+.#....####
+#...#....#
+....#..#..
+.#.....###
+....#..#.#
+#..#..#..#
+....#...#.
+.....#...#
+.....##...
+.##..#.#.#
+Returned from place a tile: right border: 885, bottom border: 678.
+
+885
+1931
+Found 1/1 in 1931...
+Call to place a tile: tile 1931, rotation 2, flip False, new_row False.
+[[945, 699, 688, 231], [567, 885, 53, 924]]
+###.##...#
+#...#.#...
+#..#..#.##
+..##......
+...##....#
+#.#.##..##
+#.##.....#
+#..#......
+..#..#.#.#
+....##.#.#
+Returned from place a tile: right border: 231, bottom border: 945.
+
+231
+1187
+Found 0/1 in 1187...
+Call to place a tile: tile 1187, rotation 3, flip True, new_row False.
+[[984, 231, 799, 601], [111, 924, 995, 617]]
+####.##...
+..........
+.....#...#
+#.#......#
+#....#.###
+.#..###.#.
+##...#....
+......#..#
+....#.#..#
+#####...##
+Returned from place a tile: right border: 617, bottom border: 995.
+
+617
+3593
+Found 0/1 in 3593...
+Call to place a tile: tile 3593, rotation 3, flip True, new_row False.
+[[943, 617, 609, 709], [983, 601, 537, 653]]
+###.#.####
+.#........
+#..#....#.
+.......###
+.#....##.#
+....#..##.
+#.#.....##
+#..#...#..
+.#......#.
+#....##..#
+Returned from place a tile: right border: 653, bottom border: 537.
+
+653
+2707
+Found 0/3 in 2707...
+Call to place a tile: tile 2707, rotation 1, flip True, new_row False.
+[[923, 930, 221, 653], [871, 279, 748, 709]]
+###..##.##
+.#.####..#
+#.#.##.#.#
+#...#.#...
+.......###
+.....##...
+...####...
+###...#...
+.........#
+#.###.##..
+Returned from place a tile: right border: 279, bottom border: 871.
+
+279
+1723
+Found 1/1 in 1723...
+Call to place a tile: tile 1723, rotation 2, flip False, new_row False.
+[[183, 930, 247, 994], [948, 279, 956, 287]]
+..#.##.###
+#..###.#.#
+..#..#...#
+....#.#...
+....#....#
+#....#....
+#.....#...
+#.#..#.#..
+#...###..#
+###.####..
+Returned from place a tile: right border: 994, bottom border: 183.
+
+994
+2351
+Found 1/2 in 2351...
+Call to place a tile: tile 2351, rotation 1, flip False, new_row False.
+[[543, 698, 287, 715], [993, 373, 994, 845]]
+#....#####
+#.....#...
+.....#...#
+#.#..#....
+.#.###...#
+.#...##..#
+#.#......#
+#....##.#.
+...#....##
+#####...#.
+Returned from place a tile: right border: 543, bottom border: 698.
+
+543
+1747
+Found 1/3 in 1747...
+Call to place a tile: tile 1747, rotation 0, flip False, new_row False.
+[[520, 341, 701, 993], [65, 682, 757, 543]]
+#.....#...
+..##...#.#
+...###....
+.........#
+.#..##.#..
+#.##.....#
+#.###..#..
+#.#......#
+##..##....
+#.####.#.#
+Returned from place a tile: right border: 341, bottom border: 701.
+
+746
+2659
+Found 1/3 in 2659...
+Call to place a tile: tile 2659, rotation 1, flip False, new_row True.
+[[986, 278, 370, 349], [367, 418, 314, 746]]
+####.##.#.
+.##.##...#
+####..#...
+##........
+####......
+.......#.#
+###....#..
+.....#..##
+#....#...#
+.#..###.#.
+Returned from place a tile: right border: 986, bottom border: 278.
+
+986
+3881
+Found 1/2 in 3881...
+Call to place a tile: tile 3881, rotation 1, flip False, new_row False.
+[[112, 324, 367, 732], [56, 138, 986, 237]]
+...###....
+.........#
+#...##....
+#...##...#
+#.#.#.#...
+..#..##.#.
+#....#....
+#....##.##
+...#......
+####.##.#.
+Returned from place a tile: right border: 112, bottom border: 324.
+
+112
+1699
+Found 1/1 in 1699...
+Call to place a tile: tile 1699, rotation 2, flip False, new_row False.
+[[422, 56, 489, 786], [406, 112, 606, 291]]
+.##.#..##.
+#..##.....
+...#...##.
+..#....#..
+#..#..##.#
+..#.....##
+.##......#
+..#....#..
+#..###..#.
+#..#.####.
+Returned from place a tile: right border: 786, bottom border: 422.
+
+786
+3049
+Found 1/1 in 3049...
+Call to place a tile: tile 3049, rotation 2, flip False, new_row False.
+[[282, 291, 694, 40], [354, 786, 437, 80]]
+.#...##.#.
+.#..#....#
+....#.##..
+##..#.....
+.........#
+#......#..
+...#.#....
+...#.##.#.
+.##...#..#
+.##.##.#.#
+Returned from place a tile: right border: 40, bottom border: 282.
+
+40
+3739
+Found 1/1 in 3739...
+Call to place a tile: tile 3739, rotation 2, flip False, new_row False.
+[[126, 80, 405, 1022], [504, 40, 678, 511]]
+...######.
+#.#.#..##.
+#.#.....#.
+#..#..#.##
+#..#......
+#.#......#
+#..##.....
+#.##.#....
+#.#..#..#.
+#.#.#..##.
+Returned from place a tile: right border: 1022, bottom border: 126.
+
+1022
+3037
+Found 0/0 in 3037...
+Call to place a tile: tile 3037, rotation 0, flip True, new_row False.
+[[1022, 430, 361, 945], [511, 470, 602, 567]]
+#########.
+...#.#...#
+.##......#
+.#........
+#....#...#
+#..#..#.#.
+...###.#.#
+#.#...#.##
+##..#.#..#
+#..#.##.#.
+Returned from place a tile: right border: 602, bottom border: 470.
+
+602
+1583
+Found 1/2 in 1583...
+Call to place a tile: tile 1583, rotation 1, flip False, new_row False.
+[[666, 68, 361, 799], [357, 136, 602, 995]]
+#.#..##.#.
+#..#.#....
+#...#..#..
+##.....#.#
+#...#.#...
+...###....
+..#..#.##.
+...####..#
+#....#....
+#..#.##.#.
+Returned from place a tile: right border: 666, bottom border: 68.
+
+666
+3931
+Found 0/1 in 3931...
+Call to place a tile: tile 3931, rotation 3, flip True, new_row False.
+[[537, 666, 332, 117], [609, 357, 202, 696]]
+#....##..#
+...#..###.
+#...#..#.#
+.......#..
+#.......#.
+###......#
+###.#.#..#
+.##..#..#.
+...##..#.#
+..##..#.#.
+Returned from place a tile: right border: 696, bottom border: 202.
+
+696
+2027
+Found 0/3 in 2027...
+Call to place a tile: tile 2027, rotation 1, flip True, new_row False.
+[[329, 593, 871, 696], [586, 553, 923, 117]]
+.#.#..#..#
+....#.....
+.#..##....
+#..###..##
+#...#.....
+#...#...##
+.#........
+##.##.#...
+.....#.#..
+###..##.##
+Returned from place a tile: right border: 553, bottom border: 586.
+
+553
+1627
+Found 1/1 in 1627...
+Call to place a tile: tile 1627, rotation 2, flip False, new_row False.
+[[911, 593, 948, 55], [967, 553, 183, 944]]
+###...####
+#.........
+#..#..###.
+.....##..#
+#....#....
+#.##..##.#
+....#..##.
+...##...#.
+.###..#...
+..#.##.###
+Returned from place a tile: right border: 55, bottom border: 911.
+
+55
+3499
+Found 1/3 in 3499...
+Call to place a tile: tile 3499, rotation 0, flip False, new_row False.
+[[373, 929, 1015, 944], [698, 535, 959, 55]]
+.#.###.#.#
+......#..#
+..#......#
+.#......#.
+##.......#
+##...##...
+.#......#.
+#......#..
+#....#....
+###.######
+Returned from place a tile: right border: 929, bottom border: 1015.
+
+929
+1787
+Found 1/2 in 1787...
+Call to place a tile: tile 1787, rotation 1, flip False, new_row False.
+[[730, 211, 535, 757], [365, 812, 929, 701]]
+#.##.##.#.
+....#...#.
+#..#..#..#
+...#.....#
+#.##.#....
+##.......#
+#.....#...
+#...##.#..
+.#.##.#..#
+###.#....#
+Returned from place a tile: right border: 730, bottom border: 211.
+
+278
+2069
+Found 1/3 in 2069...
+Call to place a tile: tile 2069, rotation 1, flip False, new_row True.
+[[46, 1, 822, 418], [464, 512, 435, 278]]
+....#.###.
+#.#...#.#.
+.##.......
+..#.#.....
+..........
+#...#..#..
+..........
+###...#...
+#...#.###.
+.##.##..##
+Returned from place a tile: right border: 46, bottom border: 1.
+
+46
+2467
+Found 0/3 in 2467...
+Call to place a tile: tile 2467, rotation 1, flip True, new_row False.
+[[485, 600, 324, 46], [670, 105, 138, 464]]
+.####..#.#
+#####.....
+##...##...
+#....##.##
+.....###..
+#....###.#
+......#..#
+....##.#..
+....##.#..
+..#...#.#.
+Returned from place a tile: right border: 105, bottom border: 670.
+
+105
+1831
+Found 1/2 in 1831...
+Call to place a tile: tile 1831, rotation 1, flip False, new_row False.
+[[294, 233, 600, 406], [402, 604, 105, 422]]
+.#..#..##.
+#.....##..
+###....###
+.#.#.##..#
+#....#...#
+......#.#.
+.....#..##
+#..##.....
+####.#.##.
+...##.#..#
+Returned from place a tile: right border: 294, bottom border: 233.
+
+294
+2557
+Found 0/0 in 2557...
+Call to place a tile: tile 2557, rotation 0, flip True, new_row False.
+[[294, 434, 334, 282], [402, 310, 458, 354]]
+.#..#..##.
+#....##.##
+...#.#...#
+#...####..
+#........#
+...#....##
+..........
+.##..#.##.
+#.#..#...#
+.###..#.#.
+Returned from place a tile: right border: 458, bottom border: 310.
+
+458
+3463
+Found 1/2 in 3463...
+Call to place a tile: tile 3463, rotation 1, flip False, new_row False.
+[[29, 774, 334, 504], [736, 387, 458, 126]]
+.....###.#
+...##.#..#
+.#...#....
+###.##..#.
+#.###...#.
+#..#..#...
+#..##.....
+#..#...#.#
+#........#
+.###..#.#.
+Returned from place a tile: right border: 29, bottom border: 774.
+
+29
+3793
+Found 1/3 in 3793...
+Call to place a tile: tile 3793, rotation 0, flip False, new_row False.
+[[430, 344, 465, 736], [470, 106, 558, 29]]
+.##.#.###.
+.##.##..##
+..#...#.#.
+......#..#
+..####....
+#........#
+#....#...#
+#....#.#..
+.#.#..###.
+#...#.###.
+Returned from place a tile: right border: 344, bottom border: 465.
+
+344
+1609
+Found 0/1 in 1609...
+Call to place a tile: tile 1609, rotation 3, flip True, new_row False.
+[[68, 344, 288, 186], [136, 106, 18, 372]]
+...#...#..
+#....##..#
+...###.#..
+#.##.##..#
+#.#.##.#..
+##.......#
+.##...#..#
+#....#....
+........#.
+.....#..#.
+Returned from place a tile: right border: 372, bottom border: 18.
+
+372
+1109
+Found 1/2 in 1109...
+Call to place a tile: tile 1109, rotation 1, flip False, new_row False.
+[[171, 692, 186, 332], [852, 181, 372, 202]]
+..#.#.#.##
+.....#....
+#...##.#.#
+##.##.#...
+.........#
+.#..#.#..#
+#.........
+.##...#..#
+#.#..#..#.
+.#.###.#..
+Returned from place a tile: right border: 171, bottom border: 692.
+
+171
+1409
+Found 0/1 in 1409...
+Call to place a tile: tile 1409, rotation 3, flip True, new_row False.
+[[586, 171, 766, 173], [329, 852, 509, 724]]
+#..#..#.#.
+....#..#..
+#...#...##
+#..#.#....
+...##..#.#
+#...#.....
+...#.##.##
+#..##.....
+.#......##
+.#######.#
+Returned from place a tile: right border: 724, bottom border: 509.
+
+724
+1129
+Found 1/1 in 1129...
+Call to place a tile: tile 1129, rotation 2, flip False, new_row False.
+[[404, 173, 967, 966], [166, 724, 911, 399]]
+.##..#.#..
+##.#.#....
+###...#..#
+..........
+......####
+..........
+##...#...#
+#.#...#.##
+#.........
+###...####
+Returned from place a tile: right border: 966, bottom border: 404.
+
+966
+1321
+Found 1/3 in 1321...
+Call to place a tile: tile 1321, rotation 0, flip False, new_row False.
+[[959, 795, 654, 399], [1015, 867, 453, 966]]
+###.######
+#...#.#..#
+##........
+#..#..#.#.
+..##.#..#.
+.........#
+.#.......#
+#..#......
+##.#.....#
+.###...#.#
+Returned from place a tile: right border: 795, bottom border: 654.
+
+795
+2957
+Found 1/1 in 2957...
+Call to place a tile: tile 2957, rotation 2, flip False, new_row False.
+[[25, 867, 812, 420], [608, 795, 211, 150]]
+.....##..#
+..#....#.#
+#..#...##.
+.......###
+...#..#.##
+##......#.
+.#.....##.
+#...##.##.
+#....#.###
+..##.#..##
+Returned from place a tile: right border: 420, bottom border: 25.
+
+1
+3301
+Found 0/0 in 3301...
+Call to place a tile: tile 3301, rotation 3, flip True, new_row True.
+[[1, 971, 913, 708], [512, 847, 551, 141]]
+.........#
+.#..#....#
+##.#...#.#
+..#..#...#
+.##....##.
+..#...#...
+##.##....#
+#..#.#....
+.....#..##
+#...#..###
+Returned from place a tile: right border: 141, bottom border: 551.
+
+141
+2879
+Found 1/2 in 2879...
+Call to place a tile: tile 2879, rotation 1, flip False, new_row False.
+[[679, 855, 708, 485], [917, 939, 141, 670]]
+#.#.#..###
+......####
+##....#.#.
+.#.......#
+....##..#.
+#..#.###.#
+#.........
+##.......#
+#...##...#
+..#...##.#
+Returned from place a tile: right border: 679, bottom border: 855.
+
+679
+2719
+Found 0/1 in 2719...
+Call to place a tile: tile 2719, rotation 3, flip True, new_row False.
+[[233, 679, 714, 232], [604, 917, 333, 92]]
+..###.#..#
+..##...##.
+..##.....#
+#.......#.
+...#....##
+#.#....#..
+#.......#.
+#..#.....#
+........##
+.#.#..##.#
+Returned from place a tile: right border: 92, bottom border: 333.
+
+92
+2087
+Found 1/0 in 2087...
+Call to place a tile: tile 2087, rotation 3, flip False, new_row False.
+[[232, 434, 362, 178], [92, 310, 346, 308]]
+..###.#...
+#...##...#
+...#.....#
+..##...#..
+##.....#.#
+####.....#
+..#.#..#..
+#.#.##....
+..###....#
+.#.#.##.#.
+Returned from place a tile: right border: 362, bottom border: 178.
+
+362
+1901
+Found 0/0 in 1901...
+Call to place a tile: tile 1901, rotation 0, flip True, new_row False.
+[[362, 230, 239, 774], [346, 412, 988, 387]]
+.#.##.#.#.
+#.........
+#.##..#.##
+...###...#
+.....#.#.#
+.#.....#..
+....#.#...
+..#...#..#
+#........#
+####.###..
+Returned from place a tile: right border: 988, bottom border: 412.
+
+988
+2447
+Found 1/3 in 2447...
+Call to place a tile: tile 2447, rotation 0, flip False, new_row False.
+[[558, 368, 442, 239], [465, 58, 374, 988]]
+#...#.###.
+#.....#..#
+#.#.......
+###..#...#
+.....##.##
+#....#...#
+#.#.#.....
+#.....#...
+...##.....
+.#.###.##.
+Returned from place a tile: right border: 368, bottom border: 442.
+
+368
+3433
+Found 0/1 in 3433...
+Call to place a tile: tile 3433, rotation 3, flip True, new_row False.
+[[18, 368, 269, 754], [288, 58, 706, 317]]
+.....#..#.
+##..##...#
+....#.....
+.........#
+#........#
+#..##..###
+#..#..##..
+#...##.#..
+.#...#..#.
+#.##....#.
+Returned from place a tile: right border: 317, bottom border: 706.
+
+317
+1163
+Found 1/0 in 1163...
+Call to place a tile: tile 1163, rotation 3, flip False, new_row False.
+[[754, 181, 790, 501], [317, 692, 419, 702]]
+#.####..#.
+.##.#.#...
+#.#..#####
+......#...
+##....#..#
+#.......##
+#.#.##..#.
+##...###.#
+#.........
+.##.#...##
+Returned from place a tile: right border: 790, bottom border: 501.
+
+790
+3733
+Found 0/0 in 3733...
+Call to place a tile: tile 3733, rotation 0, flip True, new_row False.
+[[790, 14, 274, 509], [419, 448, 290, 766]]
+##...#.##.
+.....#....
+#......##.
+##........
+##...##...
+#.#...#...
+#......#.#
+#.#....#.#
+#...#.#.##
+.#..#...#.
+Returned from place a tile: right border: 290, bottom border: 448.
+
+290
+3307
+Found 0/3 in 3307...
+Call to place a tile: tile 3307, rotation 1, flip True, new_row False.
+[[335, 658, 404, 290], [970, 293, 166, 274]]
+.#.#..####
+###..#.#..
+........##
+.....#..#.
+.#....##..
+###.#....#
+.#........
+.......#..
+#.#.....##
+..#.#..##.
+Returned from place a tile: right border: 293, bottom border: 970.
+
+293
+1481
+Found 1/3 in 1481...
+Call to place a tile: tile 1481, rotation 0, flip False, new_row False.
+[[453, 623, 695, 658], [654, 985, 949, 293]]
+.###...#.#
+####.##.#.
+.###.##.#.
+...#.#...#
+#...#....#
+.#.....#..
+..##....##
+##.##..###
+.....#...#
+###.##.#.#
+Returned from place a tile: right border: 623, bottom border: 695.
+
+623
+3677
+Found 1/2 in 3677...
+Call to place a tile: tile 3677, rotation 1, flip False, new_row False.
+[[273, 591, 985, 608], [546, 969, 623, 25]]
+.#...#...#
+..........
+....###...
+.######..#
+..#...#...
+#...#.#...
+##.......#
+..#......#
+.#..#....#
+#..##.####
+Returned from place a tile: right border: 273, bottom border: 591.
+
+551
+3329
+Found 1/3 in 3329...
+Call to place a tile: tile 3329, rotation 1, flip False, new_row True.
+[[778, 21, 555, 913], [323, 672, 849, 551]]
+##....#.#.
+....#..##.
+..##..#.#.
+.#.##..#..
+#.#.#..#..
+.........#
+.......#..
+#..###...#
+###.#.#.#.
+##.#.#...#
+Returned from place a tile: right border: 778, bottom border: 21.
+
+778
+1049
+Found 0/1 in 1049...
+Call to place a tile: tile 1049, rotation 3, flip True, new_row False.
+[[855, 778, 400, 9], [939, 323, 38, 576]]
+##.#.#.###
+...###.#.#
+...##.....
+#...#.#.#.
+....##....
+.##....#..
+.....#.#.#
+..#..#..#.
+..#.#....#
+....#..##.
+Returned from place a tile: right border: 576, bottom border: 38.
+
+576
+3833
+Found 0/3 in 3833...
+Call to place a tile: tile 3833, rotation 1, flip True, new_row False.
+[[8, 84, 333, 576], [64, 168, 714, 9]]
+......#...
+.......#..
+......#.#.
+...#.....#
+...##.#.#.
+.#.....###
+#..##..#..
+....#....#
+.#..#..#..
+#.##..#.#.
+Returned from place a tile: right border: 168, bottom border: 64.
+
+168
+3613
+Found 0/1 in 3613...
+Call to place a tile: tile 3613, rotation 3, flip True, new_row False.
+[[178, 168, 190, 394], [308, 84, 500, 326]]
+..#.##..#.
+#...##....
+.........#
+#......#..
+....####.#
+..#.##....
+..#.#...##
+#.#..#....
+#.#...#...
+.#####.#..
+Returned from place a tile: right border: 326, bottom border: 500.
+
+326
+1091
+Found 1/2 in 1091...
+Call to place a tile: tile 1091, rotation 1, flip False, new_row False.
+[[395, 664, 394, 230], [838, 101, 326, 412]]
+.##...#.##
+#.....#...
+####.....#
+.......#..
+...#......
+#.#..#...#
+#.#.....##
+##......#.
+..#.......
+.#.#...##.
+Returned from place a tile: right border: 395, bottom border: 664.
+
+395
+1613
+Found 1/2 in 1613...
+Call to place a tile: tile 1613, rotation 1, flip False, new_row False.
+[[197, 673, 838, 374], [652, 533, 395, 442]]
+..##...#.#
+#......#..
+#.#..#..##
+.#.#.#....
+#.####.###
+##..##.#..
+##........
+.#.#...#..
+#.#....#..
+.##...#.##
+Returned from place a tile: right border: 197, bottom border: 673.
+
+197
+1997
+Found 0/1 in 1997...
+Call to place a tile: tile 1997, rotation 3, flip True, new_row False.
+[[706, 197, 769, 997], [269, 652, 515, 671]]
+#.##....#.
+..#...#...
+#........#
+.....#.#.#
+.#...#....
+#..#.#....
+##...#....
+##.....#.#
+#.........
+#.......##
+Returned from place a tile: right border: 671, bottom border: 515.
+
+671
+3163
+Found 1/0 in 3163...
+Call to place a tile: tile 3163, rotation 3, flip False, new_row False.
+[[997, 702, 414, 451], [671, 501, 486, 782]]
+#####..#.#
+####..#.#.
+.##.#..###
+...#....#.
+.........#
+..#......#
+##.....#.#
+#.....#..#
+#..#...#.#
+.####..##.
+Returned from place a tile: right border: 414, bottom border: 451.
+
+414
+3251
+Found 1/0 in 3251...
+Call to place a tile: tile 3251, rotation 3, flip False, new_row False.
+[[486, 14, 256, 222], [414, 448, 2, 492]]
+.####..##.
+#.........
+##..###...
+#......#..
+##..##..#.
+..........
+#........#
+#........#
+..##.#.###
+........#.
+Returned from place a tile: right border: 256, bottom border: 222.
+
+256
+3529
+Found 1/0 in 3529...
+Call to place a tile: tile 3529, rotation 3, flip False, new_row False.
+[[2, 335, 614, 316], [256, 970, 409, 242]]
+........#.
+.#....##.#
+#......##.
+#..#...#.#
+##........
+#.#...#...
+...#..#.##
+.#.#..#..#
+#..####..#
+.##..##..#
+Returned from place a tile: right border: 614, bottom border: 316.
+
+614
+1601
+Found 0/1 in 1601...
+Call to place a tile: tile 1601, rotation 3, flip True, new_row False.
+[[695, 614, 496, 45], [949, 409, 62, 720]]
+#.#.##.###
+.#..#...#.
+##...#..#.
+#.#####..#
+.......#.#
+##..##.##.
+..#.#..#..
+..###....#
+.....#...#
+....#####.
+Returned from place a tile: right border: 720, bottom border: 62.
+
+720
+2473
+Found 1/0 in 2473...
+Call to place a tile: tile 2473, rotation 3, flip False, new_row False.
+[[45, 969, 933, 912], [720, 591, 663, 39]]
+....#.##.#
+..#......#
+..#......#
+....#..#.#
+#...#.....
+..#..#..#.
+.##..###.#
+#.#..#....
+#....##...
+#.#..#.###
+Returned from place a tile: right border: 933, bottom border: 912.
+
+21
+1051
+Found 1/0 in 1051...
+Call to place a tile: tile 1051, rotation 0, flip False, new_row True.
+[[672, 189, 904, 457], [21, 756, 71, 590]]
+#.#.#.....
+..#..#.##.
+......#..#
+#.#.......
+..#.#.#..#
+.#.##.#..#
+#..#.###.#
+#...#..###
+#.......#.
+...#...###
+Returned from place a tile: right border: 189, bottom border: 904.
+
+189
+3779
+Found 0/3 in 3779...
+Call to place a tile: tile 3779, rotation 1, flip True, new_row False.
+[[527, 788, 38, 189], [961, 163, 400, 756]]
+#.....####
+....#...##
+#...#...#.
+#.....##..
+#.##....#.
+#..#....##
+.......#..
+#.#.#....#
+.#..#.#...
+.##..#....
+Returned from place a tile: right border: 163, bottom border: 961.
+
+163
+1993
+Found 1/2 in 1993...
+Call to place a tile: tile 1993, rotation 1, flip False, new_row False.
+[[480, 209, 788, 8], [30, 556, 163, 64]]
+.####.....
+.....#..#.
+..#.#..#.#
+#........#
+...##.#.#.
+..#.#.#..#
+.###.##.#.
+..#.#..#..
+....#####.
+..#.#...##
+Returned from place a tile: right border: 480, bottom border: 209.
+
+480
+3209
+Found 0/3 in 3209...
+Call to place a tile: tile 3209, rotation 1, flip True, new_row False.
+[[262, 20, 500, 480], [386, 160, 190, 30]]
+.#.....##.
+....####..
+..........
+..##...#..
+....#...#.
+#...##.#.#
+#.##.###..
+#...#....#
+##........
+..#.#####.
+Returned from place a tile: right border: 160, bottom border: 386.
+
+160
+2213
+Found 1/1 in 2213...
+Call to place a tile: tile 2213, rotation 2, flip False, new_row False.
+[[454, 20, 101, 640], [398, 160, 664, 5]]
+.###...##.
+..##......
+..........
+.##...#...
+...##...#.
+..#.#..#.#
+..##......
+#..#.#.###
+...#......
+#.#..##...
+Returned from place a tile: right border: 640, bottom border: 454.
+
+640
+3709
+Found 1/1 in 3709...
+Call to place a tile: tile 3709, rotation 2, flip False, new_row False.
+[[388, 5, 533, 712], [134, 640, 673, 77]]
+.##....#..
+........#.
+....#.....
+##..#.#...
+..#..#.#..
+..#.#.....
+#.........
+#.#.##..##
+....##....
+#.#.#....#
+Returned from place a tile: right border: 712, bottom border: 388.
+
+712
+2503
+Found 1/0 in 2503...
+Call to place a tile: tile 2503, rotation 3, flip False, new_row False.
+[[77, 769, 775, 828], [712, 515, 899, 243]]
+...#..##.#
+.........#
+#.#....##.
+#.........
+##..#.#...
+#...#..#..
+...#......
+.##.##....
+#.........
+###.....##
+Returned from place a tile: right border: 775, bottom border: 828.
+
+775
+3821
+Found 1/2 in 3821...
+Call to place a tile: tile 3821, rotation 1, flip False, new_row False.
+[[381, 681, 899, 782], [762, 597, 775, 451]]
+.#.#####.#
+#.......#.
+#..#.#..##
+##........
+.#.....#.#
+.....#....
+.#.#.....#
+..#..##...
+##..#.....
+##.....###
+Returned from place a tile: right border: 381, bottom border: 681.
+
+381
+2531
+Found 1/2 in 2531...
+Call to place a tile: tile 2531, rotation 1, flip False, new_row False.
+[[41, 747, 762, 492], [592, 861, 381, 222]]
+....#.#..#
+..#..#..#.
+#....#...#
+#..#..#..#
+.........#
+#.#.......
+#......###
+#.#...##..
+#....###.#
+.#.#####.#
+Returned from place a tile: right border: 41, bottom border: 747.
+
+41
+3089
+Found 0/3 in 3089...
+Call to place a tile: tile 3089, rotation 1, flip True, new_row False.
+[[853, 960, 316, 41], [683, 15, 242, 592]]
+##.#.#.#.#
+.#..#....#
+.#.#.....#
+##...#.#.#
+.......#..
+###..####.
+....#.....
+........#.
+.#.....##.
+..####..#.
+Returned from place a tile: right border: 15, bottom border: 683.
+
+15
+3659
+Found 1/3 in 3659...
+Call to place a tile: tile 3659, rotation 0, flip False, new_row False.
+[[496, 498, 259, 960], [62, 318, 770, 15]]
+.#####....
+....#.#.##
+.#..#....#
+....#....#
+.....#...#
+.....#..##
+##..#.....
+##...#....
+####....##
+##......#.
+Returned from place a tile: right border: 498, bottom border: 259.
+
+498
+2609
+Found 1/1 in 2609...
+Call to place a tile: tile 2609, rotation 2, flip False, new_row False.
+[[380, 318, 39, 932], [250, 498, 912, 151]]
+.#.#####..
+......#..#
+#.#.#.....
+..##...#..
+....#....#
+#....#...#
+..#.#...##
+#...#...##
+#..#.....#
+###..#....
+Returned from place a tile: right border: 932, bottom border: 380.
+
+904
+2269
+Found 1/3 in 2269...
+Call to place a tile: tile 2269, rotation 1, flip False, new_row True.
+[[990, 89, 798, 71], [495, 616, 483, 904]]
+####.####.
+#.........
+#...##.##.
+..##..#..#
+...#......
+.#....#..#
+#..##....#
+..........
+..#.....#.
+.####...##
+Returned from place a tile: right border: 990, bottom border: 89.
+
+990
+1777
+Found 1/0 in 1777...
+Call to place a tile: tile 1777, rotation 3, flip False, new_row False.
+[[495, 527, 862, 66], [990, 961, 491, 264]]
+.####.####
+#..#....#.
+....###...
+.....#.#..
+....#.....
+.#........
+##.#.....#
+.#.......#
+.#...#...#
+.####.#.##
+Returned from place a tile: right border: 862, bottom border: 66.
+
+862
+2297
+Found 0/3 in 2297...
+Call to place a tile: tile 2297, rotation 1, flip True, new_row False.
+[[389, 888, 209, 862], [646, 123, 556, 491]]
+.##....#.#
+####..#.##
+#.##...##.
+#.##...#.#
+###.##..##
+....#...##
+##....##.#
+..##...##.
+##.#.#..#.
+#...#.##..
+Returned from place a tile: right border: 123, bottom border: 646.
+
+123
+2341
+Found 1/3 in 2341...
+Call to place a tile: tile 2341, rotation 0, flip False, new_row False.
+[[262, 356, 107, 888], [386, 154, 856, 123]]
+.#.....##.
+.##..#...#
+.#..#.....
+#........#
+#..#.....#
+###.......
+##.##.#...
+.......#.#
+#.#...#...
+##.#.##...
+Returned from place a tile: right border: 356, bottom border: 107.
+
+356
+2909
+Found 1/3 in 2909...
+Call to place a tile: tile 2909, rotation 0, flip False, new_row False.
+[[398, 337, 718, 154], [454, 554, 461, 356]]
+.##...###.
+#.....#..#
+.#..#.....
+#.###.#.##
+#.##.#.##.
+..#......#
+.#..#.#...
+#..#..#.#.
+.#.#...#..
+.###..##.#
+Returned from place a tile: right border: 337, bottom border: 718.
+
+337
+3167
+Found 1/1 in 3167...
+Call to place a tile: tile 3167, rotation 2, flip False, new_row False.
+[[199, 554, 134, 286], [908, 337, 388, 482]]
+..##...###
+#....#..#.
+#.#..#....
+#.........
+#..##..#.#
+..........
+.....#..##
+.#.....##.
+##......##
+.##....#..
+Returned from place a tile: right border: 286, bottom border: 199.
+
+286
+1483
+Found 0/3 in 1483...
+Call to place a tile: tile 1483, rotation 1, flip True, new_row False.
+[[145, 751, 828, 286], [548, 989, 243, 482]]
+..#..#...#
+##.#.#....
+#.#....###
+##..#.####
+##.#.#.#.#
+..#.#..##.
+..##.....#
+..#....###
+#..##....#
+..####..##
+Returned from place a tile: right border: 989, bottom border: 548.
+
+989
+2927
+Found 1/2 in 2927...
+Call to place a tile: tile 2927, rotation 1, flip False, new_row False.
+[[802, 307, 751, 597], [275, 818, 989, 681]]
+##..#...#.
+...#..#..#
+#..#..#...
+.....#.#..
+##.......#
+...##.##.#
+#.#.......
+.###....#.
+....#.####
+####.###.#
+Returned from place a tile: right border: 802, bottom border: 307.
+
+802
+2687
+Found 1/2 in 2687...
+Call to place a tile: tile 2687, rotation 1, flip False, new_row False.
+[[789, 594, 275, 861], [675, 297, 802, 747]]
+##...#.#.#
+.####.....
+#.#..#..#.
+#...##...#
+#....#.##.
+.##......#
+#..##..#..
+.#.#.#..#.
+#.#.##..##
+##..#...#.
+Returned from place a tile: right border: 789, bottom border: 594.
+
+789
+1549
+Found 1/3 in 1549...
+Call to place a tile: tile 1549, rotation 0, flip False, new_row False.
+[[853, 636, 325, 675], [683, 249, 650, 789]]
+##.#.#.#.#
+##..#...#.
+.#....#...
+.#....##.#
+..#..###.#
+#....#..##
+.#.......#
+#.....#.##
+.....#....
+#.#...#.#.
+Returned from place a tile: right border: 636, bottom border: 325.
+
+636
+2083
+Found 0/1 in 2083...
+Call to place a tile: tile 2083, rotation 3, flip True, new_row False.
+[[259, 636, 328, 144], [770, 249, 74, 36]]
+.#......##
+...#......
+....#.#...
+...##.#..#
+#...##...#
+.....#...#
+..##.#...#
+#....#..##
+.....#....
+...#..#.#.
+Returned from place a tile: right border: 36, bottom border: 74.
+
+36
+2339
+Found 0/1 in 2339...
+Call to place a tile: tile 2339, rotation 3, flip True, new_row False.
+[[380, 36, 97, 946], [250, 144, 536, 311]]
+.#.#####..
+##.#...#..
+..##.#....
+.###....#.
+#..##....#
+#.........
+.....#....
+#...#....#
+#..##...#.
+#....##...
+Returned from place a tile: right border: 311, bottom border: 536.
+
+89
+1103
+Found 1/0 in 1103...
+Call to place a tile: tile 1103, rotation 0, flip False, new_row True.
+[[616, 244, 298, 69], [89, 188, 338, 648]]
+#..##.#...
+.###......
+#..#.....#
+.....###.#
+.#..#.##.#
+......##.#
+#...##.#..
+...#...###
+.##..#.##.
+.#.#.#..#.
+Returned from place a tile: right border: 244, bottom border: 298.
+
+244
+2953
+Found 1/2 in 2953...
+Call to place a tile: tile 2953, rotation 1, flip False, new_row False.
+[[85, 722, 188, 264], [680, 301, 244, 66]]
+...#.#.#.#
+..#.#.....
+.........#
+#..#...#.#
+......#...
+.........#
+....#..#..
+.###....#.
+##.##..###
+..####.#..
+Returned from place a tile: right border: 85, bottom border: 722.
+
+85
+3079
+Found 1/0 in 3079...
+Call to place a tile: tile 3079, rotation 3, flip False, new_row False.
+[[680, 389, 568, 155], [85, 646, 113, 868]]
+#.#.#.#...
+##..#....#
+..#...#..#
+#..###....
+#.#.......
+..#.#.....
+....#.....
+###.##.###
+...##.....
+...###...#
+Returned from place a tile: right border: 568, bottom border: 155.
+
+568
+3361
+Found 1/2 in 3361...
+Call to place a tile: tile 3361, rotation 1, flip False, new_row False.
+[[479, 792, 113, 856], [1006, 99, 568, 107]]
+.###.#####
+.##..#...#
+.....##...
+#.#....#..
+#..#...#..
+.........#
+#........#
+..#.......
+#.###.....
+#...###...
+Returned from place a tile: right border: 479, bottom border: 792.
+
+479
+2801
+Found 1/0 in 2801...
+Call to place a tile: tile 2801, rotation 3, flip False, new_row False.
+[[1006, 461, 850, 393], [479, 718, 299, 582]]
+#####.###.
+..#.##.###
+.##...##.#
+#.......##
+.......#..
+..........
+......#..#
+#.....#..#
+##..#.###.
+.#..#.#.##
+Returned from place a tile: right border: 850, bottom border: 393.
+
+850
+2647
+Found 1/2 in 2647...
+Call to place a tile: tile 2647, rotation 1, flip False, new_row False.
+[[431, 584, 299, 908], [982, 73, 850, 199]]
+.##.#.####
+..#.......
+#...##....
+#..#....##
+......#...
+..##......
+.#.....#.#
+###.##....
+###...###.
+##.#.#..#.
+Returned from place a tile: right border: 431, bottom border: 584.
+
+431
+1801
+Found 0/3 in 1801...
+Call to place a tile: tile 1801, rotation 1, flip True, new_row False.
+[[1003, 615, 548, 431], [863, 921, 145, 982]]
+#####.#.##
+#.#.......
+#.#.#####.
+##.#.....#
+....##.#.#
+#..#.#....
+.#........
+#.#.##...#
+#.#......#
+..#..#...#
+Returned from place a tile: right border: 921, bottom border: 863.
+
+921
+2671
+Found 1/1 in 2671...
+Call to place a tile: tile 2671, rotation 2, flip False, new_row False.
+[[93, 615, 818, 194], [744, 921, 307, 268]]
+...#.###.#
+#.#.....#.
+.#.....#..
+...##.####
+.#.###..##
+.#.#.#.#..
+#...##..#.
+#.......##
+.#....##.#
+.#..##..##
+Returned from place a tile: right border: 194, bottom border: 93.
+
+194
+3061
+Found 1/3 in 3061...
+Call to place a tile: tile 3061, rotation 0, flip False, new_row False.
+[[297, 559, 874, 268], [594, 977, 347, 194]]
+.#..#.#..#
+........#.
+##.#....#.
+###....#..
+.........#
+..#..#....
+....#..#.#
+.#.##...##
+##.#....##
+.#.#.##.##
+Returned from place a tile: right border: 559, bottom border: 874.
+
+559
+3643
+Found 0/1 in 3643...
+Call to place a tile: tile 3643, rotation 3, flip True, new_row False.
+[[325, 559, 588, 214], [650, 977, 201, 428]]
+.#.#...#.#
+#.##....#.
+#..#...#..
+....##....
+#....##.##
+..........
+#...#.#.##
+##.#..#..#
+...#....##
+..##..#..#
+Returned from place a tile: right border: 428, bottom border: 201.
+
+428
+2423
+Found 1/1 in 2423...
+Call to place a tile: tile 2423, rotation 2, flip False, new_row False.
+[[466, 214, 328, 184], [302, 428, 74, 116]]
+.###.#..#.
+..###.##..
+..#.#...##
+#....#...#
+#..#.##...
+#..#....##
+.....#....
+##.##....#
+....#....#
+...#..#.#.
+Returned from place a tile: right border: 184, bottom border: 466.
+
+184
+3221
+Found 1/1 in 3221...
+Call to place a tile: tile 3221, rotation 2, flip False, new_row False.
+[[42, 116, 97, 1002], [336, 184, 536, 351]]
+....#.#.#.
+##..#.....
+.#.##..#..
+#..##..#.#
+....#....#
+##.......#
+#.......#.
+#.###...##
+#..#......
+#....##...
+Returned from place a tile: right border: 1002, bottom border: 42.
+
+298
+3391
+Found 1/2 in 3391...
+Call to place a tile: tile 3391, rotation 2, flip False, new_row True.
+[[254, 366, 338, 122], [508, 474, 298, 376]]
+..#######.
+#..#.#...#
+.......#..
+#...#....#
+#.....#..#
+##........
+#.....#..#
+.....#..##
+..###...##
+.#..#.#.#.
+Returned from place a tile: right border: 122, bottom border: 254.
+
+122
+3373
+Found 1/2 in 3373...
+Call to place a tile: tile 3373, rotation 1, flip False, new_row False.
+[[809, 612, 376, 301], [595, 153, 122, 722]]
+##..#.#..#
+...#......
+###.##..#.
+#........#
+.#...#...#
+#....##...
+.#.....#..
+.#....#..#
+#.#..####.
+...####.#.
+Returned from place a tile: right border: 809, bottom border: 612.
+
+809
+3323
+Found 0/1 in 3323...
+Call to place a tile: tile 3323, rotation 3, flip True, new_row False.
+[[155, 809, 780, 118], [868, 595, 195, 440]]
+..#..##.##
+##......##
+###.#...#.
+.#..#..#..
+#...#..###
+#....##...
+##.....#.#
+...####...
+....#.....
+..##....##
+Returned from place a tile: right border: 440, bottom border: 195.
+
+440
+1061
+Found 1/1 in 1061...
+Call to place a tile: tile 1061, rotation 2, flip False, new_row False.
+[[864, 118, 99, 763], [27, 440, 792, 893]]
+##.##.....
+#..#.#..#.
+..#....#..
+#.....#..#
+#.#..#...#
+#.....####
+#....#....
+##......##
+......##.#
+##...##...
+Returned from place a tile: right border: 763, bottom border: 864.
+
+763
+3313
+Found 0/3 in 3313...
+Call to place a tile: tile 3313, rotation 1, flip True, new_row False.
+[[1017, 808, 393, 763], [639, 83, 582, 893]]
+#######..#
+#.#...####
+..........
+#.#..##...
+###......#
+##........
+##......##
+##..#.#...
+..#..#..#.
+#..#...##.
+Returned from place a tile: right border: 83, bottom border: 639.
+
+83
+2689
+Found 1/2 in 2689...
+Call to place a tile: tile 2689, rotation 1, flip False, new_row False.
+[[534, 321, 808, 73], [417, 522, 83, 584]]
+#....#.##.
+....#...##
+......##..
+#....#...#
+........#.
+..........
+##.#.###..
+..#.......
+....##....
+...#.#..##
+Returned from place a tile: right border: 534, bottom border: 321.
+
+534
+2633
+Found 1/1 in 2633...
+Call to place a tile: tile 2633, rotation 2, flip False, new_row False.
+[[300, 417, 1003, 674], [210, 534, 863, 277]]
+.#..#.##..
+#........#
+......#..#
+..#.......
+.##....#.#
+#.......#.
+.#.##.....
+#.........
+........#.
+##.#.#####
+Returned from place a tile: right border: 674, bottom border: 300.
+
+674
+3631
+Found 0/1 in 3631...
+Call to place a tile: tile 3631, rotation 3, flip True, new_row False.
+[[93, 674, 304, 348], [744, 277, 50, 234]]
+...#.###.#
+........#.
+###..##..#
+###.....#.
+##....##.#
+....#.....
+###.#.#...
+...#..#...
+##..#....#
+....##..#.
+Returned from place a tile: right border: 234, bottom border: 50.
+
+234
+3181
+Found 1/1 in 3181...
+Call to place a tile: tile 3181, rotation 2, flip False, new_row False.
+[[456, 348, 347, 814], [78, 234, 874, 467]]
+.###..#...
+##...#.#.#
+#..#......
+#......#.#
+.#...##.#.
+#.#......#
+.........#
+.........#
+#.#...#...
+##.##.#.#.
+Returned from place a tile: right border: 814, bottom border: 456.
+
+814
+2309
+Found 1/2 in 2309...
+Call to place a tile: tile 2309, rotation 1, flip False, new_row False.
+[[200, 506, 467, 588], [76, 382, 814, 201]]
+..##..#...
+...#.....#
+########.#
+#....##..#
+.#..#....#
+..#.#....#
+##.....#.#
+..........
+.#....#.##
+##..#.###.
+Returned from place a tile: right border: 200, bottom border: 506.
+
+200
+1553
+Found 0/1 in 1553...
+Call to place a tile: tile 1553, rotation 3, flip True, new_row False.
+[[466, 200, 174, 156], [302, 76, 468, 228]]
+.###.#..#.
+.#..##.#..
+#....#...#
+#....##..#
+#.#.##....
+....#...#.
+.........#
+#..##..#..
+.#......#.
+.###.#.#..
+Returned from place a tile: right border: 228, bottom border: 468.
+
+228
+1823
+Found 0/1 in 1823...
+Call to place a tile: tile 1823, rotation 3, flip True, new_row False.
+[[42, 228, 375, 740], [336, 156, 954, 157]]
+....#.#.#.
+.#........
+#...##...#
+...####..#
+...#...###
+#...#..#..
+#.#..#....
+#...#..#.#
+......#...
+###.###.#.
+Returned from place a tile: right border: 157, bottom border: 954.
+
+........#.#..........##.##......##....#...#.#.....##.....#...##......#..#.....#.##....##.#.##..#
+.#...#....##..#.............#.....##...##.......#.....#....#....##..#...........#...#...........
+...........#.#.....#....##.##.#..#...#.#..#.....##....##........#..#..#.............#.#........#
+....#.###.##.#..#.#.#..#.#..#...#.#...###.#...#.#..##..##..#...##...#.#....#.#.#....#.#......#..
+............###..#.....#..#....#.##....##.#.............##.#.###.........#.#..##.....#.....#.#..
+.....#.#....##.............#.....#.#.##...##.......#.#..#.##..#.#..###..#.#.......#.........###.
+............#..#...#.......#.#..#....#.#...#..##.......###..#...##.#...#............#.......##..
+.#...#..#.#..##....#.#......#...#...........#.....#.#.#.##...#..#####.##...#..###.##..#.....#...
+..#...........###......#..#......###..##....#.###.##........#..##.#...........#.....#..#..#..#..
+.##...#.#..##....#......#....##.#....#.##.........#....#.#.....#...#.......##.#..#..###.##.#....
+..#.#..#.#...#..#.#...#......##.....#..#.......###......#.....#...#....#.#..#......#.##..#..#...
+#.#..#.#..#..#..#.........#..#.###....#..#..........#...##....#..#....#..........##.##..##...###
+#......#....#..#.....#.#....####...#...###..#.......#..#.#.....##.####.#............#.#..#.#.#..
+.#....##..##...#....#....#..#..#.#...#.............#.....##..#..#...#..........#..#...#..#..#...
+.......#..##....#....#.##....#........#....##.#.###.......#.....##.........#...........#...##.#.
+..###..##.###....#..........##.#.#.###.#......#.....#..#..#....#....#......#.....#..#.#..##.....
+#.....#..##..##....#...#.....#.........#.##....#...#....###.....#.....#....#.#...#...#...####...
+#...#...#...##......#......#.#...#..#.##.....#...##.#.#.#......#.#....##.####.##....##..#..#.#..
+.#...#...#..#....#.....##.###.#.......#..#...#.#.......##...#..##.###...###........##.....##.#.#
+..#..##...........#..#.##....#........#...............#.#.......#......##.#..#.#.#.##....#..#..#
+.........#.#...........#....#.......###..........#.#..#.....#.#.#.....#.##.#..#.#.........#...#.
+........#.#.#.....#.....#.#.#..#......###....#.#.#.....##......#..#.....#.#.........##..........
+..##.###.....#...........#.#.#....#.................#...#.........#.......#..##...#..#..###.#...
+..#....###......#........#...##.#.#.........#....#...#.#.....##..#.........#.#...##..#.......##.
+#..#...#..###.....#...#..##.#..#...#.....#.#..#................#..........###......##....##...#.
+.#..#.#......#.#.....#..#..........#..#......#.....#....#....#..##...#...#.#..#...#..#....###...
+.....##..##...#.#..##......#.##.#.....##.....##.......#.##........####....#.....#...#...........
+.#...#.#........#...........#......#..#.#..##.#.##.#.....##....#....##.....#........#...#..##.#.
+..#...#..#.#.....#.#..#.#....#....#..#......##..#.###..###..#.........##....#....#.####..##.....
+...#...##........#...........#.....#...#.....##....#...##.....#....#.#....#.#....#.#...#.###..#.
+#..#...#.#.....#.##..#..##..#.......#...#.#..#....#......#...#...#.##.#....#..#..........#......
+......##.........##.................##....#.#.....#.#...#......##.####...#.###..##......#..##...
+..#.####........#..###....#...###..#..#..##....#.....#..###..#......#.#...#..###.....#..#..#....
+..#.#.##...##....#....#.#.##.#.....#.##..#....#...#......#..#...#.##.#..#...##...#..........#...
+....#.#.#.............##...#.#......##..#...##...#.#...#.#......#.......##..#...#......##...###.
+.......#....###.#.....#..#............#......#.#.#.##.#.#..........#...#.##..##.#.......##.....#
+##.....#.###.##..##..#...............#..#..#.#..####...#......##...#.......#....#...##...#..#...
+......#..#.##....#....#.....#..##.#..#......#.##.#..#.....#.#.##..###..#..##....#......##.#...#.
+..##............##...#...##.#...#.....#......#....#..##.#..#..###..##...###..#........#..#......
+.#.......#.#........##......#..###..#.#.....#.#...#......#..##.....#................#..........#
+.#....#....##.#.#....##.......#......##.##.##..#..##.....#.#.#...#..#..............#.#..##.#....
+.#...###...##.#.#.....#.......##....##...#...#.#.#.###..##......#...#...#.#...#.#.......##.##...
+.............#..##...#...#..#....####..#.....#....##.##......#.....#.#.....#...#..#..#.###.....#
+#..#.#......###..#........#.......#.##.#.####....#.##.#....#.##..#..##...........##.#..##......#
+............###.#.#.##..###...##.....##................##.....##....#...###.............#.#..#..
+##.....#....##.#...#.#.##.#........#...#....#.....#...##.#.#.#..#.##.#..........#.......##......
+#..#....#...##..#.....##..#...#..#..........#.#....#..........#.....##....#...##..#.....##...#..
+#......#####....#.##..#.#...#.#.....##..#.#..####.......#.......#......#...#.#.##.#......#....#.
+....#..#.#...##.##...##.............#........#.....##..#.#..##....##.....#.....####.##.##.#..#..
+.#...#.#.............##...##.#...#....#..#..........#....#....#.....#.#.......#.###.##.#.#..##..
+...#..#....#....#................##.....##..#...........####..#.........#.........#.#........#..
+##....###...#...#....#..#.....#...#..#......##.#.........#...##........###.#.......#....#..#.##.
+..#...#.#..##....#....#.#....###..##........#...##..##..#....#..#..#....#....##.#.....#......##.
+....##.#...#..###........##.#..#.#...##..#.#.....##..#.............##..#....#..#.##....#...####.
+...#.#.....#...#.....#....#.####...##........#...#.##...##...#...#...##........##.##..##........
+#..#........#.###..........##....#........##....#..#...##..#..#..#.....###..#.#.....#...........
+#....#...#.###..#..#..#....##....#....#..###.#....#...#.###........#...#.#...#..#...#..#....#...
+#...#.#.....##.....#............#.##..#.#...#.#..........#...#.#..#....####.....#..#...#..#..#..
+.#...##.#.#.#.....##..#..#..........#.#..#..##...#.#....#.....#..#......#...####..#####......#.#
+##..##.#...##...#.....##.####..............##......#...#.........#.#...#.......#.#..........####
+.#.......#....##..##.#.#...##.#....#.......####....#.#...#.......#.#...........###.##..#..##....
+#.....#..#.#......#.....#...#.#........#...........#...##.#....#.......#..#..###.#..#.#.........
+..#.##.##..#..#......#.#...#..#......#..##.##..#.#.....###..#..........#....#.......###.##..###.
+#.....##....#.#.......#...#...#..##.........#.#.........##...#...#.#....#..#..#....#.........#..
+.#..#.###..#.#....#.....#............#.....##....#......#.#.##..........#.....##...#.#.#.....#..
+.....#...#.#.....###..#....#....##.#.#..#..##.#..#..#....#.......#.#...#.......##..#....#...#...
+.#............#...#.#....##.###......##............#......#...#......#.....#.......#....#...#.#.
+.#.#.#....#....###.##.#....##.#..#..#.#.....#.#.......#.#...............##..####....#......#....
+#.##.#...##....##.#....#...#...##...##...#.#..#....##.#..#.#..#.#.....##......#.....#..#....#...
+..#.###......##.#.###....##...#...#...##..#.#..#.....#...#......##...#..#...#.#.#..#.....#...##.
+...#..##...#...###....#.....................#....#....#.....#...###.....#.#.....#...#.......#.#.
+.......#...#...##.#.#..#...####......##.#..........#..#.......##..#....##..#....###....#..#.....
+...#....#.......#.#.#..###..#........#..#......#..##.....#..#....#.#...##..#...#.....#...#...#.#
+#....#....#......##...###..#....#..#....##.....#.#....##.##.....#..#..###....#....#.#......#.##.
+..#.##...#......#....##..........###.#.##..#.....##......#.#..##.##....##....##...#.##..#....###
+..#...#..##....#...#...#..#......##.#.##.........#.#..###..#....#.#..#.#.#..###....##.......##..
+......#..#.#....##.##..###.......#.......#..##..#.#.#.#......#..##..###.....#..#...#............
+...#.#..#....#...##...#.#.##.#..#..#.#..........#..#.####..#..##........#..........#.##....#....
+......#..........##...##......#...#..#.#...#..#..#....###..#.#....#.#........#.##..#........#...
+#.....#.....#######..#.#.#...#..#.#...#.#..#....#.#.#...##......##..#.#.....#......#....#...##..
+###.....##............#........##.#....####......#.......##....#.......##....##.....#........#..
+..#......#.....#......#.##...#.###.#...###.#...#.#.##...#.......#.#....#.#...#......##.##...###.
+....###.##...#...#......#...#....#...###...#.#..#.......#..##...##....#....##......#....#.......
+#..#.##.#.#....#..#...#.#.......#........#....#...#.#....#.#.#.#........#.##....#....#.........#
+.....##.........#.#.####......###......#.#....#....##.#.#..###.#.#..#.............##.#......#...
+...##.#.....#.....#....#......#.........#...#...#.#.....###.##.....#..#.#.#.#......#.....#..##..
+..#...###.#..#...#.##.#.....##..##......#.#......#.#####.#.....##.##...#..#..#.##...#.#..#..##.#
+##..#.####......#.....#..........#.....##....#...#......#.....#.#.#....##....#...##.###.....#..#
+#...###..##.#.#.#......#.##......#..#..#..#.....#.......#.........#...#.#.#.#.#..#.##..#.......#
+#..#....#.....#.#...#.###......##..#.#...#................##..##...........#..#....#.......##...
+..#............#.#..#..#...#....#......#..#.........##.##.....##..............##..##......####..
+.......#......#.##..#...###.....#.......#......##........##....#......#....##.#....##.#.##...#..
+..#.....#..##.#...##.......#..#.##......#.#..#...#....##....#...#.##...#.....##.#...#....#..#...
+....#...##.#.....#.....#..#......#..##....#...#.......#...#.#.##.#......#....##............#..#.
+.#......#.#.......####...#....#...........#...#...#.......#..#.......#....#...#..#..##...#..#...
+...#.#..#.....#.....#...#..#.#...#...###....#..#............#..#.#.#...##.......#......#..#.....
