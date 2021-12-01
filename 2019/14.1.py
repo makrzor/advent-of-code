@@ -26,8 +26,8 @@ for line in input_file:
     product = dict((product[1], product[0]))
     materials = materials.split(", ")
     for mat in materials:
-
-    input_data[product] = orbited
+        pass
+    input_data[product] = None # orbited
 
 distances_total = 0
 for orbiting in input_data.keys():
