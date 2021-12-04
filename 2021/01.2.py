@@ -14,4 +14,3 @@ for i in range(3, len(depths)):
 
 print(larger_sums_count)
 sys.exit(EXIT_SUCCESS)
-

@@ -12,4 +12,3 @@ for line in get_input_stream():
 
 print(larger_depths_count)
 sys.exit(EXIT_SUCCESS)
-
