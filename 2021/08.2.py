@@ -65,3 +65,4 @@ for line in get_input_stream():
     total_sum += int(number)
 
 print(total_sum)
+sys.exit(EXIT_SUCCESS)

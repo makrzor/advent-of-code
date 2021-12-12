@@ -25,3 +25,4 @@ for line in get_input_stream():
         line_points[-1] += VALUES[line[i]]
 
 print(sorted(line_points)[(len(line_points) - 1) // 2])
+sys.exit(EXIT_SUCCESS)

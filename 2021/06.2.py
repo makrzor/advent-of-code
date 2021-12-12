@@ -33,3 +33,4 @@ for counter in initial_numbers:
     total_count += check_number(counter, GENERATIONS) * initial_numbers[counter]
 
 print(total_count)
+sys.exit(EXIT_SUCCESS)

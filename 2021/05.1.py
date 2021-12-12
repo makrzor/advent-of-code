@@ -34,3 +34,4 @@ for row in vents_map.values():
             overlapping_lines_count += 1
 
 print(overlapping_lines_count)
+sys.exit(EXIT_SUCCESS)

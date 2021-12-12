@@ -25,3 +25,4 @@ while cost_sum(point - 1) < cost_sum(point):
     point -= 1
 
 print(cost_sum(point))
+sys.exit(EXIT_SUCCESS)

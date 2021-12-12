@@ -25,3 +25,4 @@ for line in get_input_stream():
             break
 
 print(points)
+sys.exit(EXIT_SUCCESS)

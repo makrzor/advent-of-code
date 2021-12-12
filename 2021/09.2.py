@@ -36,3 +36,4 @@ for row in height_map:
             top_three_min = min(top_three)
 
 print(top_three[0] * top_three[1] * top_three[2])
+sys.exit(EXIT_SUCCESS)

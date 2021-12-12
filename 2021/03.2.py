@@ -30,3 +30,4 @@ for i in range(len(gases)):
                     gases[i][position + 1].append(sample)
 
 print(bin_digit_list_to_dec(report[gases[0][-1][0]]) * bin_digit_list_to_dec(report[gases[1][-1][0]]))
+sys.exit(EXIT_SUCCESS)

@@ -43,3 +43,4 @@ for row in winners[0]:
         board_sum += addend
 board_sum //= 2
 print(board_sum * number)
+sys.exit(EXIT_SUCCESS)

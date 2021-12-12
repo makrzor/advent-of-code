@@ -16,3 +16,4 @@ for line in get_input_stream():
         depth -= distance
 
 print(depth * position)
+sys.exit(EXIT_SUCCESS)

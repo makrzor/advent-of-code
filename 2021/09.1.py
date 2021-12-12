@@ -34,3 +34,4 @@ for i in range(1, len(height_map) - 1):
             total_risk_level += height_map[i][j] + 1
 
 print(total_risk_level)
+sys.exit(EXIT_SUCCESS)

@@ -18,3 +18,4 @@ for position in range(len(report[0])):
     epsilon += str(1 - int(gamma[-1]))
 
 print(int(gamma, 2) * int(epsilon, 2))
+sys.exit(EXIT_SUCCESS)
