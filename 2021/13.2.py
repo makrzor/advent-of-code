@@ -3,6 +3,8 @@
 from __init__ import *
 
 manual = {}
+fold_x = 0
+fold_y = 0
 
 for line in get_input_stream():
     if "," in line:
