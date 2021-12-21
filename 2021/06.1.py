@@ -5,18 +5,18 @@ from __init__ import *
 GENERATIONS = 80
 
 
-def check_number(counter: int, generations: int) -> int:
+def check_number(local_counter: int, generations: int) -> int:
     if generations not in cached_number:
         cached_number[generations] = {}
-    if counter not in cached_number[generations]:
+    if local_counter not in cached_number[generations]:
         if generations == 0:
             number = 1
-        elif counter > 0:
-            number = check_number(counter - 1, generations - 1)
+        elif local_counter > 0:
+            number = check_number(local_counter - 1, generations - 1)
         else:
             number = check_number(6, generations - 1) + check_number(8, generations - 1)
-        cached_number[generations][counter] = number
-    return cached_number[generations][counter]
+        cached_number[generations][local_counter] = number
+    return cached_number[generations][local_counter]
 
 
 cached_number = {}
