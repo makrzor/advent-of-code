@@ -1,25 +1,23 @@
 #!/usr/bin/env python3
 
+from functools import lru_cache
+
 from __init__ import *
 
 GENERATIONS = 80
 
 
+@lru_cache(maxsize=None)
 def check_number(local_counter: int, generations: int) -> int:
-    if generations not in cached_number:
-        cached_number[generations] = {}
-    if local_counter not in cached_number[generations]:
-        if generations == 0:
-            number = 1
-        elif local_counter > 0:
-            number = check_number(local_counter - 1, generations - 1)
-        else:
-            number = check_number(6, generations - 1) + check_number(8, generations - 1)
-        cached_number[generations][local_counter] = number
-    return cached_number[generations][local_counter]
+    if generations == 0:
+        number = 1
+    elif local_counter > 0:
+        number = check_number(local_counter - 1, generations - 1)
+    else:
+        number = check_number(6, generations - 1) + check_number(8, generations - 1)
+    return number
 
 
-cached_number = {}
 initial_numbers = {}
 
 for counter in [int(x) for x in get_input_stream().readline().split(",")]:
